@@ -11,7 +11,7 @@
 1. 浏览网页，比如 <https://www.owenyoung.com/inspires/>
 2. 如果是英文文章，我使用 [Immersive Translate](https://github.com/immersive-translate/immersive-translate) 扩展将网页翻译为双语，然后再用这个 [markdownload](https://github.com/theowenyoung/markdownload) 扩展，把双语文章保存下来。
 3. 使用 Git 把本地文件同步到远程仓库
-4. 使用[Github Actions](https://github.com/theowenyoung/clip/blob/main/.github/workflows/build-site.yml) 自动发布网页到 [Cloudflare Pages](https://pages.cloudflare.com/)
+4. [Vercel](https://vercel.com/dashboard)会自动部署并发布。
 
 ## 复制该项目
 
