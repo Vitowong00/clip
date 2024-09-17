@@ -1,10 +1,10 @@
-base_url = "https://clip-virid.vercel.app/"
+base_url = "https://clip-vito.vercel.app/"
 [book]
 title = "Vito's Clip"
 description = "Vito's Clip"
 src = "content"
 language = "zh"
-authors = ["Vito wang"]
+authors = ["Vito Wang"]
 
 [output.html]
 git-repository-url = "https://github.com/Vitowong00/clip"
