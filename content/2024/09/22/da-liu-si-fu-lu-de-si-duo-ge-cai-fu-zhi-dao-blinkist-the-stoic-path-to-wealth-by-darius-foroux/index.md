@@ -1,5 +1,5 @@
 ---
-title: 达柳斯
+title: 斯多葛派的致富之路
 date: 2024-09-21T22:34:19.000Z
 updated: 2024-09-21T22:34:19.000Z
 taxonomies:
