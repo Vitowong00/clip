@@ -11,10 +11,6 @@
     <link rel="alternate" href="https://clip-vito.vercel.app/"/>
     <subtitle>Vito's Clip</subtitle>
     <icon>https://clip-vito.vercel.app//favicon.png</icon>
-    <follow_challenge>  
-    <feedId>61414424947435520</feedId>  
-    <userId>58336736209433600</userId>  
-    </follow_challenge>  
     <entry>
         <title type="html"><![CDATA[规避笔记陷阱 [译]]]></title>
         <id>https://clip-vito.vercel.app/2024/09/22/gui-bi-bi-ji-xian-jing-yi/index.html</id>
