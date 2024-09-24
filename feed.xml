@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://clip-vito.vercel.app/</id>
+    <title>Vito's Clip</title>
+    <updated>2024-09-24T14:46:08.610Z</updated>
+    <generator>clip</generator>
+    <author>
+        <name>Vito Wang</name>
+        <uri>https://clip-vito.vercel.app/</uri>
+    </author>
+    <link rel="alternate" href="https://clip-vito.vercel.app/"/>
+    <subtitle>Vito's Clip</subtitle>
+    <icon>https://clip-vito.vercel.app//favicon.png</icon>
+    <follow_challenge>  
+    <feedId>61414424947435520</feedId>  
+    <userId>58336736209433600</userId>  
+    </follow_challenge>  
+    <entry>
+        <title type="html"><![CDATA[规避笔记陷阱 [译]]]></title>
+        <id>https://clip-vito.vercel.app/2024/09/22/gui-bi-bi-ji-xian-jing-yi/index.html</id>
+        <link href="https://clip-vito.vercel.app/2024/09/22/gui-bi-bi-ji-xian-jing-yi/index.html"/>
+        <updated>2024-09-22T13:52:43.000Z</updated>
+        <content type="html"><![CDATA[<p>在我们的学习和工作过程中，笔记的重要性不言而喻。然而，并非所有人都需要做笔记。许多人在大学时期，甚至没有做笔记，也能顺利完成学业。他们可以在考试中即兴发挥，也可以通过阅读和死记硬背老师画的范围准备考试。那么，如果你能记住所有需要的信息，如果你不需要处理来自多个来源的复杂信息，如果你不需要写长篇报告或内容，你为什么还需要做笔记呢？这似乎是多余的，对吧？</p>
+<p>对于需要经常更新自己知识的人来说，做笔记是必不可少的。他们需要通过学习和研究不断提升他们的能力，应用知识来解决问题，并将他们的知识传达给他人。他们的 “考试” 可以在任何时候以任何形式发生，而且信息量如此之大，我们不能期望一个人只凭他们的记忆就能记住、理解和产生新的想法。因此，我们需要做笔记。</p>
+<p>如何做有效的笔记呢？如果你问五个人这个问题，你可能会得到五个不同的答案。事实是：没有人知道有效的笔记应该是什么样子。主要是因为关于这个话题的研究还不够（至少到目前为止）。但是我还是要分享我的实践（以及背后的理由），希望这对他人有所帮助。在这篇文章中，我将强调常见的做笔记的陷阱，以及如何克服它们。</p>
+<h2 id="httpslainbodevnotetakingusercontente5ae9ae4b989e69c89e69588e79a84e7ac94e8aeb0">定义有效的笔记<a href="https://lainbo.dev/note-taking#user-content-%E5%AE%9A%E4%B9%89%E6%9C%89%E6%95%88%E7%9A%84%E7%AC%94%E8%AE%B0">#</a></h2>
+<p>有效的定义是成功地产生给定的结果。因此，要做到有效，就需要有一个目标或意图，即: <strong>目标决定有效性</strong>。任何做笔记的目标，甚至是 "没有目标"（这也是一个目标），都将决定你的做笔记技巧的有效性。</p>
+<p>我想讨论一种做笔记的实践，这个实践</p>
+<ol>
+<li>支持你的思维方式（是定制给你的）。</li>
+<li>表示你的知识（受他人的话语受到启发和影响，但不仅仅是他们的话的复制 / 粘贴）。</li>
+<li>轻松检索到你的知识。</li>
+</ol>
+<p>那么，当你试图创建一个真正属于你的系统时，有哪些常见的做笔记的陷阱呢？</p>
+<p>首先，为什么我称它们为陷阱而不是错误呢？</p>
+<p>这些实践依旧可以帮助你前进，所以它们不是错误。它们依旧会支持你的思考，并给你一种成就感，但只能到一定程度。无法发挥他们最大的作用。</p>
+<p>当你将这些实践转化为习惯时，摆脱它们就变得更难了。因此，它是一个陷阱。</p>
+<p>那么，这些陷阱是什么呢？让我们来看看。</p>
+<h2 id="httpslainbodevnotetakingusercontente999b7e998b1e4b880e7ac94e8aeb0e5b7a5e585b7">陷阱一：笔记工具<a href="https://lainbo.dev/note-taking#user-content-%E9%99%B7%E9%98%B1%E4%B8%80%E7%AC%94%E8%AE%B0%E5%B7%A5%E5%85%B7">#</a></h2>
+<p>这个问题就像是什么编程语言最优秀一样，我也曾经在很多笔记软件的评测视频评论区留下自己的痕迹。当我们注意到做笔记可以不仅仅是 “复制老师在黑板上写的东西”，我们就会对我们的工具的可能性充满热情。</p>
+<p>语雀？飞书？wolai? flowus ? Notion? Obsidian? 我应该选什么？我应该使用哪种标签系统？我应该使用大纲、长篇笔记还是视觉表示方式？我在一份笔记中应该有多少链接？</p>
+<p>事实证明，每个工具都是其创造者做出的一系列设计决策的结果，这些决策可能对你产生积极或消极的影响。所以，要选择最好的工具来支持你的思维方式，比如我不能向一个喜欢大纲的人强推 Notion，因为幕布可能更适合做大纲笔记。首先你需要决定：你的工具应该支持哪种思维方式？</p>
+<p>为了简化这个过程，我们要有<a href="https://zh.wikipedia.org/wiki/%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86">PKM (个人知识管理)</a>金字塔</p>
+<p>在金字塔的基础上，我们有思维方式。这就是你希望你的工具支持的。只有建立了基础，我们才开始创建上层。</p>
+<p>这里有三个选择供你选择：</p>
+<p>选择 1（不推荐）。在你选择工具之前，了解所有适合你的思维方式。这意味着自我反思，阅读，自我反思。你在尝试任何事情之前都会思考很多，但这这听起来很低效，对吧？</p>
+<p>选择 2。选择你喜欢的工具，并在你用预期的思维方式探索事物时使用它。你将通过试错，并发现思维方式与你想要的不一致的点来学习。这不会加快探索过程，但至少你可以开始了。</p>
+<p>选择 3。与 PKM 专业人士和支持性社区合作，快速开始你的过程。从一份思维方式列表和一些初始方法开始你的探索，比自己摸索要容易得多。</p>
+<p>爬上 PKM 金字塔是一次个人的旅程，但你不需要独自完成。社区在这里，你只需要伸手，或者说乐于提问。</p>
+<p><strong>所以解决陷阱一的方法：爬上你的 PKM 金字塔。</strong></p>
+<h2 id="2httpslainbodevnotetakingusercontente999b7e998b12e5b086e7ac94e8aeb0e58699e68890e79c9fe79086e79a84e78987e6aeb5">陷阱 2: 将笔记写成真理的片段<a href="https://lainbo.dev/note-taking#user-content-%E9%99%B7%E9%98%B1-2-%E5%B0%86%E7%AC%94%E8%AE%B0%E5%86%99%E6%88%90%E7%9C%9F%E7%90%86%E7%9A%84%E7%89%87%E6%AE%B5">#</a></h2>
+<p>陷阱 2 一般出现在你要建立一个 PKM 系统的时候</p>
+<p>设想一个场景，你和某人在争论一个知识点，你想到了你的笔记中记录一些 “大佬” 对该观点的至理名言，你会把你的笔记都拍到对面的脸上吗？最重要的是，你拍到对面脸上的，是你的知识，还是别人说话的片段？</p>
+<p>当我们写笔记的内容时，我们可以使用两种不同的思维方式。</p>
+<p><strong>第一种</strong>思维方式是 "笔记作为真理的片段"。</p>
+<p>它指的是在我们的笔记中只有真实、完整和高质量的知识。在这种情况下不能有错误、部分或模糊的信息。这个思维方式会导致:</p>
+<ol>
+<li>导致我们避免写下自己的想法，因为每个笔记都需要是最终版本，只包含正确的信息，这会触发完美主义。</li>
+<li>当我们终于写下自己的想法时，我们只把它们当作短暂的笔记，认为它们是一次性的，有一个截止日期要扔掉，此时我们倾向于不好好处理我们自己的想法。因为会想 “为什么要在一个最终要删掉的笔记上花力气呢？”</li>
+<li>所有长期的笔记都是那些 “大佬” 的原话，我们只是试图准确地捕捉作者的想法。我们有引用、事实和结论，但我们自己的观点在哪里？我们的知识在哪里？这种心态会给你带来很多信息，但如果我们的目标是表达你自己拥有的知识，那么它就成了一个陷阱。</li>
+</ol>
+<p><strong>第二种</strong>思维方式是 “笔记作为理解的片段”</p>
+<p>这种思维方式会让我们意识到，想法本就是模糊的、不完整的、混乱的。只有通过花时间与这些想法相处，它们才会成长为我们可以认为是真理的片段。</p>
+<p>如果你把笔记看作是理解的片段，那么笔记也会随着时间的推移而改善。随着理解的增长，笔记也会随之增长。(我想这就是为什么 Notion「文档历史」这一功能存在的主要原因吧，或许 Notion 的产品经理，并不觉得这个功能是防止文档丢失)</p>
+<p>在任何时候，你都可以看看你的笔记，说：这是我现在的理解，我目前对这些想法的认识。它们不会只是你在网上冲浪时需要的信息。相反，它们代表你的个人知识。</p>
+<p><strong>所以解决陷阱二的方法：把你的笔记看作是理解的片段。</strong></p>
+<h2 id="3httpslainbodevnotetakingusercontente999b7e998b13e68a8ae7ac94e8aeb0e58699e68890e69687e6a1a3">陷阱 3: 把笔记写成文档<a href="https://lainbo.dev/note-taking#user-content-%E9%99%B7%E9%98%B1-3-%E6%8A%8A%E7%AC%94%E8%AE%B0%E5%86%99%E6%88%90%E6%96%87%E6%A1%A3">#</a></h2>
+<p>写笔记本就是一项耗时的事情，我不希望你创建了 100 篇笔记，只是为了在需要的时候找不到想找的内容。</p>
+<p>让我们先停下来，想一下什么时候需要我们查找笔记</p>
+<ol>
+<li>需要回顾我们的知识，或者某一个想法的时候</li>
+<li>提高对某一个知识理解或者表达的时候</li>
+<li>想要传达想法的时候</li>
+</ol>
+<p>再来看一下大多数人是如何做笔记的</p>
+<ol>
+<li>读了一篇关于全球变暖的文章，然后创建了一份笔记，标题可能是 "全球变暖的文章摘要"。在这份笔记中，你记录了文章中的各种观点，例如温室气体排放的影响、冰川融化的速度、海平面上升的预测等。这些都是不同的想法，但却都记录在了同一份笔记中。</li>
+<li>听了一个尤雨溪的播客，时长 1 小时 30 分钟，然后创建了一份笔记，标题可能是 “6 月 1 日尤雨溪播客访谈内容”，里面写了尤雨溪如何读书，如何学习，如何思考。这些都是不同的想法，但却记录在了同一份笔记中。</li>
+</ol>
+<p>这就是很多人都在做的 “文档笔记”，也就是第三个陷阱的主要表现。</p>
+<p>文档笔记包含了多个想法的片段，或一个完整的论证链在一个单独的笔记中。而且，它们有奇怪的标题，比如 “5 月 1 日学习知识总结”，这些标题与笔记里面的内容毫无关联。</p>
+<p>当我们去文档笔记中找内容的时候，是很低效的，因为:</p>
+<ol>
+<li>你需要记得几乎所有想法的关键字，以便在笔记工具中搜索。(大概率记不住或记不全)</li>
+<li>你需要阅读大部分的笔记才能找到提到想法的段落（耗时）</li>
+<li>同一个想法的片段可能会出现在多个笔记中（希望你能找到他们所有）。这些片段甚至可能相互矛盾。</li>
+</ol>
+<p>反思一下，如果你在找一个知识点，那为什么要把笔记写成文档的形式呢？我建议写 “想法笔记”，比如关于上面的两个例子，如果换成想法笔记则是:</p>
+<ol>
+<li>在读到关于全球变暖的文章后，创建多份笔记，每份笔记都只关注一个主要的想法。例如 "温室气体排放对全球变暖的影响"、"冰川融化的速度和全球变暖的关系"、"海平面上升的预测和全球变暖的关系"。</li>
+<li>听了尤雨溪一个半小时的播客后，创建多份笔记，每份笔记都只关注一个主要的想法。例如 “应该如何读书”、“前端开发书籍选择”、“向尤雨溪一样思考”</li>
+</ol>
+<p>然后利用笔记工具的一些能力，将其聚合在一个 “全球变暖相关记录”/“尤雨溪访谈记录” 的文档里，这个文档将仅包含那些小想法的跳转链接和简要的说明，你无需在一篇大文章中大海捞针。</p>
+<p>想法笔记的关键在于它只<strong>关注</strong>一个想法，而不是只能有一个想法，其他的存在是为了让主旨更加突出，当有别的想法开始喧宾夺主的时候，是时候为它单独创建一个笔记了。</p>
+<p><strong>所以解决陷阱三的方法：创建想法笔记。</strong></p>
+<p>虽然没有完美的做笔记的公式，但如果你专注于最适合你的最佳思维方式，一切也都会顺利的进行下去，这也就是我们所说的 “车到山前必有路”，是烂路还是是好路，取决于你的思维方式罢了。</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊聊RSS这个“古董”]]></title>
+        <id>https://clip-vito.vercel.app/2024/09/22/liao-liao-rsszhe-ge-gu-dong-luan-cao-zhi-dian/index.html</id>
+        <link href="https://clip-vito.vercel.app/2024/09/22/liao-liao-rsszhe-ge-gu-dong-luan-cao-zhi-dian/index.html"/>
+        <updated>2024-09-22T13:03:23.000Z</updated>
+        <content type="html"><![CDATA[<p>下午潘乱说要搞直播聊聊RSS，拜播客这个同样是半拉古董的媒介所赐，RSS在播客领域的应用还在持续，大量的播客内容还在依靠RSS分发。而我们的<a href="https://wav.pub/">声湃</a>业务，也误打误撞成了目前国内最大的第三方RSS托管服务商，尽管托管的内容全部是播客。所以主动跟潘乱说可能可以补充下我们这几年对RSS的认知，也帮助大家了解下这个古早协议的现状。</p>
+<p>在曾经的web2.0时代，RSS是个很“性感”的存在，它能够不依赖任何网站的中心化分发，把内容”推“到用户自己选择的各种阅读器、客户端里面，可以根据各种喜好和编排来订阅、获取，甚至重新整理一个新的RSS再发送出去（那时叫合烧）。听起来简直是太美好了——作者只需要创作好内容，点一下发布，所有人就都收到了你的文章、音频，不需要依赖任何中心化的平台，也不需要做更多的事情。</p>
+<p>彼时，诞生了好多RSS客户端和阅读器，比如Google Reader ，国内的鲜果、抓虾，还有一众客户端，一时间，大家纷纷以拥有一个“RSS”为荣，围绕RSS也诞生了好多周边的产业。</p>
+<p>好景不长，随着移动互联网时代的到来，慢慢的，RSS越来越少的出现在各种网站上了，转而是各种app、公众号构成的封闭生态，大家越来越不愿意把自己的内容放在RSS上面了，令我印象最深的其实是<a href="https://sspai.com/post/71637">少数派取消了全文RSS的输出</a>，一时间引发了不少的讨论，根据老麦的说法，跟平台与流量相关——越来越多的平台利用RSS的”开放”，去抓取他们的内容，变成自己的页面，进而提高自己的搜索引擎权重，反而原创内容变成了搜索引擎里面的次要链接。按老麦的原文讲：<em>这些巨头们，就像数张拉起的大网，阻断原创内容平台去触达用户，同时又利用你的原创内容来丰富他们的信息库，再通过强制下载客户端，捕获各个领域的用户。</em></p>
+<p>我想，这该是RSS慢慢“没落”的主要原因，大家太需要流量了，平台太想把流量放在自己的小院子里面了，而作者，也更希望平台给他们带来更多的流量，转而去不厌其烦的把自己的文章复制粘贴到每个平台的后台里面。。。</p>
+<p>平台有意义么，当然有。平台提高了内容的分发、发现效率。但反过来，一定意义上，平台拥有了对内容的“定价权”，以及对什么是好内容的“定义权”，一方面，这让平台更有效率的获取到流量和用户，而另一方面，让不被平台“喜欢”的内容越来越难于被发现，毕竟，平台的算法甚至人工推荐不可能兼顾每个小众的内容需求，他们只能看数据、看大流量来自哪些内容，而这，往往对垂类的作者是不那么公平的。</p>
+<p>其实这个话题有点类似于潘乱之前关于推特的那个话题，你是希望保有更传统的内容分发方式，还是拥抱平台和算法，这决定了你获得是你的“朋友”，还是你的“流量”，而哪个对你而言价值更高，我觉得每个人都有自己不同的想法和目的，无可厚非。</p>
+<p>而当下，其实仍然有不少的作者更愿意保有RSS这个分发方式，甚至是更古早的newsletter来联系用户，把他们留在自己的私域关系里面，而不是把分发内容的权利，甚至决定内容是否存在于互联网上的权利完全交给平台。RSS有天生的特点：一经分发，永不消失。大家都可以任意的保存、镜像、合烧你的文章，你的内容不再会因为一个平台的好恶甚至是更直接的商业利益而消失，你的分发会更自由，但代价是，你要自己想办法完成让用户找到你的这一步，因为，Google Reader 之后，已经没有普遍可用的、面向普通人的免费RSS客户端了，而哪怕有这个客户端，内容的发现也需要依赖读者个人的更多技巧，而非不断的上划上划上划上划就可以解决的。</p>
+<p>人类永远是懒惰的，算法驱动的平台，让流量匹配上了内容，而我们失去的，是决定我们能看到哪些内容、主动找到内容的技能，而作者，更失去了直接面向读者的机会：没有平台给你流量，你的内容就啥也不是。而一旦你的内容跟平台有了商业冲突，那么你可能就消失了（做过小红书的同学，应该知道我在说啥）。</p>
+<p>说回开始的播客，很幸运，播客目前还在保有这个古老的协议，也正因为RSS的几乎普遍的使用和共识，让内容的广泛分发更容易，让播客作者有了一些与平台议价的可能性，我们绝少看到播客平台会因为涉政、涉黄等红线以外的原因下架节目，因为这么做通常是徒劳的，节目早已被广泛分发出去了，用户会在其他平台收听，下架、降权的“惩罚”作用在播客领域不那么管用了。</p>
+<p>而越是头部的播客，则越看重RSS的独立性，这样的倾向也导致声湃托管的基本都是一些头部节目，他们更关注内容分发的独立自主，而并不会将内容放在某个平台，用平台提供的RSS分发，因为一旦这个平台下架他们的节目，他们无异于被全网下架。</p>
+<p>当然，RSS这个古老协议也有字面意义上的“古老”问题，从技术角度看，RSS的问题比较多，而由于其应用场景慢慢的消散，大家去改进他的动力也不足，这是个非常大的技术挑战。播客客户端Moon FM的创始人就提及，某个<a href="https://x.com/gaodengming/status/1835133808691278082">经典播客节目由于时间太久、更新期数太多，导致RSS文件的字节数很大，变得很难处理</a>，而这，只是RSS现在存在技术问题的一部分，缺乏通知机制、分页机制、基于xml的格式过于臃肿等问题，一直困扰着相关的从业者，但这似乎并没有妨碍这个协议目前还存续着，还在被一些“老”家伙使用着，而从业者也在不断的在服务端给这些问题打上一个个的补丁。比如苹果播客就支持了分块抓取RSS，在一定程度上解决了RSS文件过大的问题、小宇宙则加上了failover机制，确保RSS分发的播客的可用性和播放的稳定。</p>
+<p>我并不是一个RSS的狂热追随者，与平台化和算法化的分发方式相比，RSS在今天的效率确实有所不及。如果你需要考虑商业问题，平台是无法绕开的关键。然而在我看来，即使在算法至上的时代，每个创作者都应该拥有属于自己的那片自留地——也就是RSS。这是真正属于你的，最后一块私有领地。</p>
+<p>本文只通过RSS分发。</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[味觉正在吞噬硅谷]]></title>
+        <id>https://clip-vito.vercel.app/2024/09/22/taste-is-eating-silicon-valley/index.html</id>
+        <link href="https://clip-vito.vercel.app/2024/09/22/taste-is-eating-silicon-valley/index.html"/>
+        <updated>2024-09-21T23:55:25.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6d1f649-2482-46c3-8c41-c67603f5203e_1792x1024.jpeg"><img src="https://clip-vito.vercel.app/2024/09/22/taste-is-eating-silicon-valley/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fc6d1f649-2482-46c3-8c41-c67603f5203e_1792x1024.jpeg" alt="" /></a></p>
+<p>In 2011, Marc Andreessen famously declared that <a href="https://a16z.com/why-software-is-eating-the-world/">software was eating the world</a>. For a time, that was the undeniable reality. Software was <em>the</em> engine of transformation, revolutionizing everything from tech to finance and retail to healthcare.</p>
+<p>2011 年，马克-安德森（Marc Andreessen）发表了著名的 "软件正在吞噬世界 "的宣言。一时间，这是不争的事实。软件是变革的引擎，彻底改变了从技术到金融、从零售到医疗的一切。</p>
+<p>Back then, technical prowess meant market dominance. Y Combinator, the spiritual center of Silicon Valley,<a href="https://www.workingtheorys.com/p/taste-is-eating-silicon-valley#footnote-1-149057938">1</a> crowned technical founders as the chosen ones. Those who could manifest and master software were seen as gods. Venture capitalists funded those who could scale that code to massive heights. After all, software alone could transform giant, legacy industries, rapidly and efficiently.</p>
+<p>在当时，技术实力意味着市场主导地位。Y Combinator 是硅谷的精神中心，它将技术创始人视为天选之子。那些能够展示和掌握软件的人被视为神。风险资本家为那些能将代码扩展到巨大高度的人提供资金。毕竟，仅凭软件就能快速、高效地改变巨大的传统产业。</p>
+<p>It’s a different story today. Software has been commoditized — the result of technological advancement, decreasing cost and complexity, and democratization of coding as a skill. AI’s push into the mainstream has supercharged this shift. The lines between technology and culture are blurring. And so, it’s no longer enough to build great tech.</p>
+<p>今天的情况已经不同。软件已经商品化--这是技术进步、成本和复杂性降低以及编码技能平民化的结果。人工智能进入主流，为这一转变注入了新的动力。技术与文化之间的界限越来越模糊。因此，仅仅打造优秀的技术已经不够了。</p>
+<p>In a world of scarcity, we treasure tools. In a world of abundance, we treasure taste. The barriers to entry are low, competition is fierce, and so much of the focus has shifted — from tech to distribution, and now, to something else too: taste.<a href="https://www.workingtheorys.com/p/taste-is-eating-silicon-valley#footnote-2-149057938">2</a></p>
+<p>在匮乏的世界里，我们珍惜工具。在一个丰富的世界里，我们珍视品味。进入门槛低，竞争激烈，人们的关注点也随之转移--从技术转移到分销，现在又转移到其他方面：品味。2</p>
+<p><em>Whether in design, branding, or user experience, taste now defines how a product is perceived and felt as well as how it is adopted, i.e. distributed</em> <em>(whether it’s software or hardware or both).</em> Technology has become deeply intertwined with culture. People now engage with technology as part of their lives, no matter their location, career, or status. The markets being served now are <em>cultural markets</em>, where <em>utility plus taste</em> forms the foundation.</p>
+<p>无论是在设计、品牌塑造还是用户体验方面，品味现在都决定着人们对产品的感知和感受，以及产品的采用方式，即分销（无论是软件还是硬件，或两者兼而有之）。技术已经与文化深深交织在一起。现在，无论身处何地、从事何种职业、地位如何，人们都将技术作为生活的一部分。现在的市场是文化市场，实用加品位构成了市场的基础。</p>
+<p>Founders are realizing they have to do more than code. Utility is always a must — but founders also need to understand design, brand, experience, storytelling, community, and cultural relevance.</p>
+<p>创始人意识到，他们需要做的不仅仅是编码。实用性永远是必须的，但创始人还需要了解设计、品牌、体验、讲故事、社区和文化相关性。</p>
+<p>The likes of Steve Jobs and Elon Musk are admired not just for their technical innovations but for the way they turned their products, and themselves, into cultural icons. But the competition isn’t just within the tech world anymore — founders are up against celebrities and influencers that have an edge in distribution, branding, access, and cultural resonance, even if they’re not as readily tech-savvy. The elevation of taste invites a melting pot of experiences and perspectives.</p>
+<p>史蒂夫-乔布斯（Steve Jobs）和埃隆-马斯克（Elon Musk）等人之所以受人敬仰，不仅是因为他们的技术创新，还因为他们把自己的产品和自己变成了文化标志。但是，竞争不再仅仅局限于科技界--创始人的对手是名人和有影响力的人，他们在传播、品牌塑造、渠道和文化共鸣方面都具有优势，即使他们并不那么精通技术。品位的提升带来了经验和观点的大熔炉。</p>
+<p>You could look at companies like Apple and Tesla and AirBnb and say taste matters because they’re classically consumer-facing businesses. But that’s not the whole story — consumer-driven traits like <em>taste</em> have infiltrated every corner of the tech world. B2C sectors that once prioritized functionality and even B2B software now feel the pull of user experience, design, aesthetics, and storytelling.</p>
+<p>纵观苹果、特斯拉和 AirBnb 等公司，我们可以说，品味之所以重要，是因为它们是面向消费者的经典企业。但这并不是故事的全部--品味等以消费者为导向的特质已经渗透到科技世界的每一个角落。曾经把功能性放在首位的 B2C 行业，甚至是 B2B 软件，现在都感受到了用户体验、设计、美学和讲故事的吸引力。</p>
+<p><a href="https://arc.net/">Arc</a> is taking on legacy web browsers with design and brand as core selling points. Tools like <a href="https://linear.app/homepage">Linear</a>, a project management tool for software teams, are just as known for their principled approach to company building and their heavily-copied landing page design as they are known for their product’s functionality.<a href="https://www.workingtheorys.com/p/taste-is-eating-silicon-valley#footnote-3-149057938">3</a> Companies like Arc and Linear build an entire aesthetic ecosystem that invites users and advocates to be part of their version of the world, and to generate massive digital and literal word-of-mouth. (Their stories are still unfinished but they stand out among this sector in Silicon Valley.)<a href="https://www.workingtheorys.com/p/taste-is-eating-silicon-valley#footnote-4-149057938">4</a></p>
+<p>Arc 正在以设计和品牌为核心卖点，向传统网络浏览器发起挑战。Linear是一款面向软件团队的项目管理工具，其公司建设的原则性方法和被大量复制的登陆页面设计与产品的功能一样闻名于世。3 像 Arc 和 Linear 这样的公司建立了一个完整的美学生态系统，邀请用户和拥护者成为其世界版本的一部分，并产生大量的数字和文字口碑。(他们的故事还没有讲完，但在硅谷的这一行业中已经脱颖而出）。4</p>
+<p>In the general-purpose AI chatbot sector, OpenAI’s <a href="https://chatgpt.com/">ChatGPT</a> came out strong as the market leader. Since then, Anthropic’s <a href="https://claude.ai/login?returnTo=%2F%3F#features">Claude</a>, Google’s <a href="https://gemini.google.com/">Gemini</a>, Meta’s <a href="https://ai.meta.com/blog/large-language-model-llama-meta-ai/">Llama</a>, Microsoft <a href="https://copilot.microsoft.com/">Copilot</a>, <a href="https://www.perplexity.ai/">Perplexity</a>, <a href="https://poe.com/login">Poe</a>, and others have joined the race from different angles. Yes, they’re competing on technical merits, but with how quickly AI is improving, it feels like they’ll converge on similar functionality.</p>
+<p>在通用人工智能聊天机器人领域，OpenAI 的 ChatGPT 一跃成为市场领导者。此后，Anthropic 的 Claude、谷歌的 Gemini、Meta 的 Llama、微软的 Copilot、Perplexity、Poe 以及其他公司也从不同角度加入了这场竞争。是的，它们是在技术上竞争，但随着人工智能的快速发展，我们感觉它们会在类似的功能上趋于一致。</p>
+<p>So how do they compete? On how they look, feel, and how they make users feel.<a href="https://www.workingtheorys.com/p/taste-is-eating-silicon-valley#footnote-5-149057938">5</a> The subtleties of interaction (how intuitive, friendly, or seamless the interface feels) and the brand aesthetic (from playful websites to marketing messages) are now differentiators, where users favor tools aligned with their personal values.<a href="https://www.workingtheorys.com/p/taste-is-eating-silicon-valley#footnote-6-149057938">6</a></p>
+<p>那么它们是如何竞争的呢？它们的外观、感觉以及给用户带来的感受。5 交互的微妙之处（界面的直观性、友好性或无缝感）和品牌美学（从俏皮的网站到营销信息）现在已成为差异化因素，用户青睐与其个人价值观一致的工具。6</p>
+<p>Investors can no longer just fund the best engineering teams and wait either.</p>
+<p>投资者也不能再仅仅为最好的工程团队提供资金和等待。</p>
+<p>They’re looking for teams that can capture cultural relevance and reflect the values, aesthetics, and tastes of their increasingly diverse markets. How do investors position themselves in this new landscape? They bet on taste-driven founders who can capture the cultural zeitgeist. They build their own personal and firm brands too. They redesign their websites, write manifestos, launch podcasts, and join forces with cultural juggernauts. (And yes, people will still question whether VCs even “get” taste.)</p>
+<p>他们正在寻找能够捕捉文化相关性并反映其日益多样化的市场的价值观、审美观和品味的团队。在这种新形势下，投资者如何定位自己？他们将赌注押在能够捕捉文化潮流、以品味为导向的创始人身上。他们也建立自己的个人和公司品牌。他们重新设计网站，撰写宣言，推出播客，并与文化巨头联手。(是的，人们仍然会质疑风险投资人是否 "懂 "品味）。</p>
+<p>But what exactly is taste? The dictionary says it’s the <em>ability to discern what is of good quality or of a high aesthetic standard</em>. But who sets that standard? Taste is subjective, but within a given culture or community, it can be calibrated.<a href="https://www.workingtheorys.com/p/taste-is-eating-silicon-valley#footnote-7-149057938">7</a> Taste is some combination of design, user experience, and emotional resonance that defines how a product connects with people and aligns with their values and identity. At a minimum, <em>taste isn’t bland</em> — it’s opinionated. As Arnold Bennett famously said, ‘Good taste is better than bad taste, but bad taste is better than no taste.’<a href="https://www.workingtheorys.com/p/taste-is-eating-silicon-valley#footnote-8-149057938">8</a></p>
+<p>但品味究竟是什么？字典上说，它是一种辨别优质或高审美标准的能力。但谁来设定这个标准呢？品位是主观的，但在特定的文化或社区中，品位是可以衡量的。7 品味是设计、用户体验和情感共鸣的某种组合，它决定了产品如何与人们建立联系，并与他们的价值观和身份认同相一致。至少，品味不是平淡无奇的，而是有主见的。正如阿诺德-贝内特（Arnold Bennett）的名言："好的品味胜过坏的品味，但坏的品味胜过没有品味。8</p>
+<p>Products are no longer just functional tools; they are emotional touchpoints. Increasingly, products are designed as vehicles of self-expression and social signaling, reflecting your values, lifestyle, and identity. Products with technology at their core are closer than ever to art. If true, this also means that other players become critical to the ecosystem: artists, designers, creators, creative directors, media companies.</p>
+<p>产品不再仅仅是功能性工具，它们还是情感接触点。越来越多的产品被设计成自我表达和社会信号的载体，反映出你的价值观、生活方式和身份。以技术为核心的产品比以往任何时候都更接近艺术。如果这是真的，这也意味着其他参与者对生态系统变得至关重要：艺术家、设计师、创作者、创意总监、媒体公司。</p>
+<p>And more questions inevitably arise: <em>Who are the kingmakers and gatekeepers of taste? What culture war will the greater focus on taste ignite? Does the city or culture a company is created in matter a lot more?</em><a href="https://www.workingtheorys.com/p/taste-is-eating-silicon-valley#footnote-9-149057938">9</a> <em>Nobody owns “taste,” but enough people will certainly try.</em><a href="https://www.workingtheorys.com/p/taste-is-eating-silicon-valley#footnote-10-149057938">10</a></p>
+<p>更多的问题不可避免地出现了：谁是品味的决策者和守门人？对品味的更多关注会引发怎样的文化战争？公司所在的城市或文化是否更重要？9没有人拥有 "品味"，但肯定会有足够多的人去尝试。10</p>
+<p>As taste continues to infiltrate every corner, the roles of founders and venture capitalists are evolving. Founders must now master cultural resonance alongside technical innovation. And investors? They must bet on which companies will lead the next wave of innovation, where tech and culture are no longer separate entities, but fused into one.<a href="https://www.workingtheorys.com/p/taste-is-eating-silicon-valley#footnote-11-149057938">11</a></p>
+<p>随着品味不断渗透到每个角落，创始人和风险投资人的角色也在不断演变。创始人现在必须在技术创新的同时掌握文化共鸣。投资者呢？他们必须押注于哪些公司将引领下一波创新浪潮，在这一浪潮中，技术和文化不再是独立的个体，而是融为一体。11</p>
+<p>_In this new era of Silicon Valley, taste isn’t just an advantage — it’s the future. The most compelling startups will be those that marry great tech with great taste. Taste alone won’t win, but you won’t win without taste playing a major role.</p>
+<p>在硅谷的新时代，品味不仅是优势，更是未来。最有吸引力的初创企业将是那些将优秀技术与美味完美结合的企业。光有品味不会赢，但如果没有品味的重要作用，你也不会赢。_</p>
+<p>The challenge: <em>Utility still demands respect.</em> <em>Theory still needs execution.</em> <em>More people think they have great taste than is reality. And maybe taste recognizes taste, but can metrics recognize it?</em> <em>It’s more of a science than just “vibes” — right?</em></p>
+<p>挑战：实用性仍然需要尊重。理论仍然需要执行。认为自己品味很高的人多于实际情况。也许品位能识别品位，但衡量标准能识别品位吗？这是一门科学，而不仅仅是 "感觉"，对吗？</p>
+<p><a href="https://www.workingtheorys.com/p/taste-is-eating-silicon-valley?utm_source=substack\&utm_medium=email\&utm_content=share\&action=share\&token=eyJ1c2VyX2lkIjoxMjE5NDQwNjIsInBvc3RfaWQiOjE0OTA1NzkzOCwiaWF0IjoxNzI2OTYyNzY5LCJleHAiOjE3Mjk1NTQ3NjksImlzcyI6InB1Yi0yMjcxNyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.xqGQRj2J4jJyGP0PNKT4ANPv5tdNjfwkAlm4Ong3hus">Share&nbsp;分享到</a></p>
+<p>If you liked this essay, “like, comment, and share” with a friend or community that might enjoy it too. <a href="https://clip-vito.vercel.app/2024/09/22/taste-is-eating-silicon-valley/mailto:anuatluru@gmail.com">E-mail</a> or <a href="http://twitter.com/anuatluru">DM me</a> if there’s something interesting you’re working on that gets to the heart of this theory.</p>
+<p>如果您喜欢这篇文章，请 "点赞、评论、分享 "给可能喜欢它的朋友或社区。如果你正在做的有趣的事情触及到了这一理论的核心，请给我发电子邮件或 DM。</p>
+<p>P.S. Pulling this up from the footnotes: “<em>The existing tastemakers, or people who think they are the rare ones — both within and outside of tech — will have a reaction to this topic and essay, as is the case when someone perceives that people are infringing on their desired special territory (and especially if they can point to some potential social or economic gain). Such is the game of status, and the game of life.”</em></p>
+<p>附注：从脚注中找到这句话："现有的品味制造者，或者那些认为自己是科技界内外罕见的人，会对这个话题和这篇文章产生反应，就像有人认为别人侵犯了他们想要的特殊领地一样（尤其是当他们能指出一些潜在的社会或经济收益时）。这就是地位的游戏，也是人生的游戏"。</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯多葛派的致富之路]]></title>
+        <id>https://clip-vito.vercel.app/2024/09/22/da-liu-si-fu-lu-de-si-duo-ge-cai-fu-zhi-dao-blinkist-the-stoic-path-to-wealth-by-darius-foroux/index.html</id>
+        <link href="https://clip-vito.vercel.app/2024/09/22/da-liu-si-fu-lu-de-si-duo-ge-cai-fu-zhi-dao-blinkist-the-stoic-path-to-wealth-by-darius-foroux/index.html"/>
+        <updated>2024-09-21T22:34:19.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.blinkist.com/app/books/the-stoic-path-to-wealth-en">The Stoic Path to Wealth&nbsp;斯多葛派的致富之路</a></p>
+<h4 id="introductionnbsp">Introduction&nbsp;导言</h4>
+<h2 id="whatsinitformeapplytimelessprinciplestomoderninvesting">What’s in it for me? Apply timeless principles to modern investing.</h2>
+<p>我有什么好处？将永恒的原则应用于现代投资。</p>
+<p>Darius Foroux The Stoic Path to Wealth Ancient Wisdom for Enduring Prosperity What could a 2000-year-old philosophy possibly tell us about investing? As it turns out, quite a lot.</p>
+<p>Darius Foroux 《斯多葛派的财富之路》 永恒繁荣的古老智慧 2000 年的哲学能为我们的投资带来什么启示呢？事实证明，有很多。</p>
+<p>In this Blink, we'll explore how the wisdom of the Stoics can transform your approach to building wealth. You'll learn about the role of emotions in investing and how to cultivate resilience to the market's ups and downs. By the end, you'll have a simple blueprint for becoming not just financially richer, but wiser and more content. Whether you're a seasoned investor or just starting out, these principles will help guide you toward greater wealth, confidence and peace of mind. Let's begin.</p>
+<p>在本期 Blink 中，我们将探讨斯多葛派的智慧如何改变您积累财富的方法。您将了解情绪在投资中的作用，以及如何培养抵御市场起伏的能力。到最后，你将拥有一个简单的蓝图，不仅在经济上变得更富有，而且变得更智慧、更有内涵。无论你是经验丰富的投资者，还是刚刚起步的新手，这些原则都将帮助你获得更多的财富、信心和平静的心态。让我们开始吧</p>
+<h4 id="chapter1of5nbsp15">Chapter 1 of 5&nbsp;第 1 章之 5</h4>
+<h2 id="whyyouneedtoinvest">Why you need to invest</h2>
+<p>为什么需要投资</p>
+<p>Why you need to invest Investing is perhaps the surest way to become wealthy. Here's a hint, it isn't asking for a raise. In fact, for the top 1%, the millionaires and above, salaries account for as little as 15% of their income. While a higher salary certainly helps in the short term, to really build wealth, you need to invest.</p>
+<p>为什么需要投资 投资也许是致富的最可靠途径。这里有一个提示，它不是要求加薪。事实上，对于收入最高的 1%，即百万富翁及以上的人来说，工资只占他们收入的 15%。虽然高薪在短期内肯定有帮助，但要真正积累财富，你需要进行投资。</p>
+<p>Consider inflation. Over the past four decades, inflation has eroded the value of money at around 3% annually in the United States. Meanwhile, the S\&amp;P 500 index, which represents the 500 largest publicly traded US companies, has yielded an average annual positive return of more than 11%. This means if you stuck $1,000 under the proverbial mattress in 1980, by 2022 it would have dwindled to a mere $240 in value. On the other hand, if you'd invested it in the S\&amp;P 500, that same cool grand would have grown to nearly $30,000 in value. Author Darius Faroo argues that the formula for growing your wealth is simple.</p>
+<p>考虑通货膨胀。在过去的 40 年里，美国的通货膨胀率以每年约 3% 的速度侵蚀着货币的价值。与此同时，代表美国 500 家最大上市公司的标准普尔 500 指数的年均正收益率超过 11%。这意味着，如果你在 1980 年把 1000 美元放在众所周知的床垫下，到 2022 年，它的价值将缩水到仅剩 240 美元。另一方面，如果你把这笔钱投资到标准普尔 500 指数，那么这笔钱的价值将增长到近 3 万美元。作者达柳斯-法鲁认为，财富增长的公式很简单。</p>
+<p>Invest it in reliable assets and keep it there. But simple doesn't mean easy. Pulling this off can be more challenging than it sounds. Why? There are three reasons. The first is volatility.</p>
+<p>把钱投资在可靠的资产上，并一直放在那里。但简单并不意味着容易。要做到这一点可能比听起来更具挑战性。为什么呢？原因有三。首先是波动性。</p>
+<p>In the decades since 1980, we've seen wars, earthquakes, recessions, booms, crashes and even pandemics. Regardless of the market's gradual upward trend, this volatility triggers two powerful emotional responses – fear and greed. When prices plummet, fear drives people to sell at a loss. And when the market shoots up, greed tempts them to pour all their savings into the market at once. The second challenge is consistency. Today's vast array of investment options can be overwhelming, leading many investors to frequently switch up strategies and chase the latest trends.</p>
+<p>自 1980 年以来的几十年间，我们经历了战争、地震、经济衰退、繁荣、崩溃，甚至大流行病。无论市场的趋势如何逐步上升，这种波动都会引发两种强烈的情绪反应--恐惧和贪婪。当价格暴跌时，恐惧会驱使人们亏本抛售。而当市场暴涨时，贪婪又会诱使他们一下子把所有积蓄都投入市场。第二个挑战是一致性。当今投资选择繁多，让人应接不暇，导致许多投资者频繁更换策略，追逐最新趋势。</p>
+<p>But successful investing often boils down to filtering out the noise and adhering to a proven investment strategy year after year. What if you don't have an investment strategy? What Faroo reckons to his own friends and family is an exchange-traded fund, ETF, that tracks, once again, the S\&amp;P 500. It takes minimal time and effort to execute and it performs well.</p>
+<p>但是，成功的投资往往归结为过滤噪音，年复一年地坚持行之有效的投资策略。如果没有投资策略怎么办？法鲁向自己的亲朋好友推荐的是一种交易所交易基金（ETF），再次追踪标准普尔500指数。它只需花费最少的时间和精力来执行，而且表现出色。</p>
+<p>At an 11% interest rate, for instance, your investment will double roughly every seven years thanks to compounding. But to succeed in this, or any strategy, you've got to keep your cool on the market rollercoaster year after year. You have to stay strong and resist the burning temptation to abandon ship when faced with glittering opportunities, looming threats, or great loss. As we'll see in the next section.</p>
+<p>以 11% 的利率为例，通过复利计算，您的投资大约每七年就会翻一番。但是，要想在这一策略或任何策略中取得成功，你必须在年复一年的市场过山车中保持冷静。面对闪耀的机遇、迫在眉睫的威胁或巨大的损失时，你必须保持坚强，抵制弃船而去的强烈诱惑。我们将在下一节中看到这一点。</p>
+<h4 id="chapter2of5nbsp25">Chapter 2 of 5&nbsp;第 2 章之 5</h4>
+<h2 id="apersonallossnbsp">A personal loss&nbsp;个人的损失</h2>
+<p>A personal loss Darius Faroo was born in Iran in 1987, during the country's devastating war with Iraq. Faroo's parents emigrated to the Netherlands, arriving with nothing but a couple of suitcases. They had lost everything and had to start over from scratch. Growing up, Faroo recalls there was never enough money.</p>
+<p>个人的损失 达里乌斯-法鲁于 1987 年出生在伊朗，当时正值伊朗与伊拉克发生毁灭性战争。法鲁的父母移民到荷兰，当时他们除了几个手提箱外一无所有。他们失去了一切，不得不从头开始。法鲁回忆说，在他的成长过程中，钱总是不够用。</p>
+<p>So from a young age he promised himself he'd do whatever it took to become wealthy someday. Faroo studied business and finance in college. As soon as he could, he started investing with the amount he could scrape together – about $2,000. But misfortune struck. As it happens, he'd started his investing career at the very peak of the 2008 housing bubble. The markets crashed and he lost over half of his money.</p>
+<p>因此，他从小就向自己保证，有朝一日一定要不惜一切代价致富。法鲁在大学里学习商业和金融。一有机会，他就开始用自己能凑到的钱进行投资--大约 2000 美元。但不幸还是降临了。碰巧的是，他是在 2008 年房地产泡沫最严重的时候开始投资生涯的。市场崩溃，他损失了一半以上的资金。</p>
+<p>Losing money on the stock market isn't uncommon. Research indicates that only between 1 and 3% of active individual investors actually achieve short-term profits. But after experiencing losses, many people become disillusioned with investing and start thinking it's only for those other people. Faroo hadn't let go of his dream. He immersed himself in research, searching for the secrets of master investors and the perfect investment strategy. But the money he'd lost left him too afraid to pull the trigger and put anything real at stake.</p>
+<p>在股市上亏损并不罕见。研究表明，只有 1% 到 3% 的活跃个人投资者真正实现了短期盈利。但在经历了亏损之后，许多人对投资产生了幻灭感，开始认为投资只是那些其他人的事。法鲁没有放弃他的梦想。他潜心研究，寻找投资大师的秘诀和完美的投资策略。但他失去的钱让他不敢扣动扳机，不敢把任何东西真正置于危险之中。</p>
+<p>It wasn't until he came across a passage from the Stoic philosopher Seneca that he truly understood his situation. Every emotion is weak at first, then it rouses itself and gathers strength as it advances. And when you indulge in it too much, it is a fault. Faroo had let his fear of investing grow and grow, gathering strength in the years since his painful loss. To take the next step in becoming wealthy, he didn't need more knowledge. He needed to master his emotions.</p>
+<p>直到他看到斯多葛派哲学家塞内加的一段话，才真正明白了自己的处境。每种情绪起初都很微弱，但随着时间的推移，它会逐渐唤醒自己并积蓄力量。当你过于沉溺于它时，它就是一种过错。法鲁对投资的恐惧与日俱增，在他痛失亲人后的这些年里不断积蓄力量。为了迈出致富的下一步，他不需要更多的知识。他需要掌握自己的情绪。</p>
+<h4 id="chapter3of5nbsp35">Chapter 3 of 5&nbsp;第 3 章之 5</h4>
+<h2 id="astoicismprimernbsp">A Stoicism primer&nbsp;斯多葛主义入门</h2>
+<p>A Stoicism Primer The Stoics were a diverse group of ancient Greek and Roman philosophers who flourished from the 3rd century BCE to the 3rd century CE. Key figures include Seneca, a Roman statesman and playwright, Epictetus, a former slave turned teacher, and Marcus Aurelius, the philosopher-emperor of Rome. But Stoicism was actually founded by a merchant by the name of Zeno of Citium. One day, while transporting goods on a sea voyage, Zeno's vessel was shipwrecked, causing him to lose a fortune and seek the consolations of philosophy.</p>
+<p>斯多葛学派入门斯多葛学派是一个由古希腊和古罗马哲学家组成的多元化团体，兴盛于公元前 3 世纪至公元前 3 世纪。主要人物包括罗马政治家和剧作家塞内加（Seneca）、由奴隶转变为教师的伊壁鸠鲁（Epictetus）以及罗马哲学家皇帝马库斯-奥勒留（Marcus Aurelius）。但斯多葛学派实际上是由一位名叫芝诺的西提姆商人创立的。有一天，芝诺的船只在海上运输货物时遭遇海难，导致他倾家荡产，并寻求哲学的安慰。</p>
+<p>It was a bitter pill to swallow, but what Zeno realised was that misfortune can strike anyone. Stoicism teaches that the path to happiness and fulfilment lies in focusing on what's within our power to change, and accepting with grace all that we can't. So much in life lies beyond our control. We can't always shape the world into what we'd like it to be, but we can control our character, our judgement, and the actions we take. The Stoic approach to life is encapsulated by a phrase attributed to Zeno – virtue is the only good. Ultimately, the good and bad things that happen in life – health and illness, wealth and poverty, pleasure and pain – are merely, to quote Marcus Aurelius, material for virtue to act upon.</p>
+<p>这是一剂难以下咽的苦药，但芝诺意识到，任何人都可能遭遇不幸。斯多葛主义告诉我们，通往幸福和成就的道路在于专注于我们有能力改变的事情，并优雅地接受我们无法改变的一切。生活中有很多事情是我们无法控制的。我们不能总是把世界塑造成我们希望的样子，但我们可以控制自己的性格、判断力和所采取的行动。芝诺的一句话概括了斯多葛派的生活态度--美德是唯一的善。归根结底，生活中发生的好事和坏事--健康和疾病、财富和贫穷、快乐和痛苦--引用马库斯-奥勒留的话说，只不过是美德发挥作用的材料。</p>
+<p>In honing the virtues of wisdom, justice, courage and self-control, we build the strength to navigate life's challenges more happily. A true Stoic, says Epictetus, may be sick and yet happy, in peril and yet happy, dying and yet happy, in exile and happy, in disgrace and happy. Going too far, our desires can become obstacles. Think about how we build our lives around specific milestones and external goals, or plan our investing around exact income targets and figures.</p>
+<p>在磨练智慧、正义、勇气和自我控制等美德的过程中，我们会积蓄力量，更快乐地应对生活中的挑战。伊壁鸠鲁说，一个真正的斯多葛主义者可能生病却快乐，身处险境却快乐，濒临死亡却快乐，流亡却快乐，蒙受耻辱却快乐。走得太远，我们的欲望会成为障碍。想想我们是如何围绕着具体的里程碑和外部目标来打造自己的生活，或者围绕着精确的收入目标和数字来规划我们的投资。</p>
+<p>But all of these lie, at least to some extent, beyond what we can control directly. The Stoic solution isn't to eliminate desire, but to redirect it. Instead of fixating on outcomes, we should cultivate desire for our own virtues and personal growth. These goals are always within reach.</p>
+<p>但所有这些，至少在某种程度上，都超出了我们能够直接控制的范围。斯多葛派的解决方案不是消除欲望，而是重新引导它。我们不应执着于结果，而应培养对自身美德和个人成长的渴望。这些目标总是触手可及的。</p>
+<h4 id="chapter4of5nbsp45">Chapter 4 of 5&nbsp;第 4 章之 5</h4>
+<h2 id="skillandselfreliancenbsp">Skill and self-reliance&nbsp;技能与自立</h2>
+<p>Skill and self-reliance So the Stoics urge us to focus on what we can most directly control – our own virtue. But that's not all. We can also cultivate our skills and knowledge. How does this apply to investing?</p>
+<p>技能和自力更生 所以斯多葛学派敦促我们关注我们能最直接控制的东西--我们自己的美德。但这还不是全部。我们还可以培养自己的技能和知识。这如何适用于投资呢？</p>
+<p>Well, to invest, you need some initial capital. For anyone not born into wealth, that means developing a skill others will pay for. By continually sharpening your abilities and expanding your knowledge, you lay a solid foundation you can rely on no matter what. Consider the story of Jesse Livermore, a high school dropout who became one of the most successful traders of the early 20th century. Starting as a board boy at a brokerage firm, he absorbed knowledge voraciously, developing a system for predicting stock movements with remarkable accuracy. Those around him couldn't help but notice his skills, and so helped him recover his wealth even after multiple bankruptcies.</p>
+<p>要投资，你需要一些初始资本。对于任何并非生来富有的人来说，这就意味着要培养一种别人愿意为之付出代价的技能。通过不断磨练自己的能力和扩大自己的知识面，你就能打下坚实的基础，无论遇到什么情况，你都可以依靠它。请看杰西-利弗莫尔的故事，这位高中辍学生成为了 20 世纪初最成功的交易员之一。他从一家经纪公司的板童做起，贪婪地吸收知识，开发出一套预测股票走势的系统，准确率非常高。他周围的人不禁注意到了他的技能，因此在他多次破产后仍帮助他恢复了财富。</p>
+<p>Eventually, his skills led him to amass a fortune during the 1929 stock market crash. Livermore's story underscores a crucial Stoic principle – resilience through self-reliance. While money can be lost in market downturns, skills remain a permanent asset. Farouk calls his framework for developing skills the Skill Springboard. First, identify and nurture your inherent strengths and passions. Then study the greatest people in your chosen field and master the fundamentals.</p>
+<p>最终，他的技能使他在 1929 年股市崩盘时积累了一笔财富。利弗莫尔的故事强调了斯多葛学派的一个重要原则--自力更生，坚韧不拔。在市场低迷时，金钱可能会流失，而技能则是永久的资产。法鲁克将他的技能发展框架称为 "技能跳板"。首先，确定并培养自己与生俱来的优势和激情。然后，学习你所选择领域中最伟大的人物，掌握基础知识。</p>
+<p>Next, it's time to synthesize that knowledge into your own distinctive style. And finally, be sure to balance your determined effort with sufficient rest. You want to achieve excellence, but not at the risk of burnout. This approach to skill development also requires consistent self-reflection.</p>
+<p>然后，将这些知识综合成自己的独特风格。最后，一定要在坚定的努力和充分的休息之间取得平衡。你要追求卓越，但又不能冒倦怠的风险。这种技能培养方法还需要坚持不懈的自我反思。</p>
+<p>The journaling, a practice advocated by many Stoics, can help you identify your natural abilities and track your progress. And as an investor, self-awareness and reflection will help you deepen your financial knowledge and refine your investment strategies. By focusing on continuous learning and improvement, you won't just build wealth – you'll cultivate financial wisdom and freedom. After all, as Epictetus put it, only the educated are free.</p>
+<p>写日记是许多斯多葛学派倡导的一种做法，它可以帮助你发现自己的天赋能力并跟踪自己的进步。而作为一名投资者，自我认识和反思将帮助你深化金融知识，完善投资策略。专注于不断学习和进步，你不仅能积累财富，还能培养财务智慧和自由。毕竟，正如伊壁鸠鲁所说，只有受过教育的人才能获得自由。</p>
+<h4 id="chapter5of5nbsp55">Chapter 5 of 5&nbsp;第 5 章之 5</h4>
+<h2 id="moderateyourdesiresnbsp">Moderate your desires&nbsp;节制欲望</h2>
+<p>Moderate your desires. All too often, greed lies at the heart of investing mistakes. The relentless pursuit of more – more money, more returns, more status – can lead to destructive behaviour and poor decision-making. It's easy to fall into the trap of chasing the quick buck.</p>
+<p>节制欲望。贪婪往往是投资失误的核心。不懈地追求更多--更多的金钱、更多的回报、更高的地位--会导致破坏性的行为和错误的决策。我们很容易掉进追逐快钱的陷阱。</p>
+<p>But one of the most crucial lessons in investing is that wealth builds faster when you focus on avoiding losses rather than pursuing the highest possible returns. In the long term, the key to success is protecting your capital. Think of your investment portfolio as a garden. While it's important to nurture and grow your plants, it's equally vital to protect them from pests and harsh weather. One bad storm can undo months of careful tending. In the same way, you should focus on sticking to your investment strategy, managing risks and educating yourself rather than trying to predict the next big winner.</p>
+<p>但投资中最关键的一课是，当你专注于避免损失而不是追求最高回报时，财富积累的速度会更快。从长远来看，成功的关键在于保护你的资本。把你的投资组合想象成一个花园。培育和种植植物固然重要，但保护它们不受虫害和恶劣天气的影响也同样重要。一场恶劣的暴风雨就能让数月的精心照料付诸东流。同样，您应该专注于坚持自己的投资策略、管理风险和自我教育，而不是试图预测下一个大赢家。</p>
+<p>To help control emotions like greed and fear, here's an exercise you can try. Take a burning desire that you have – like, I need to generate 20% returns this year. Now see how you can reframe that in terms of what's truly within your power. For instance, you could say, I'll focus on making well-researched investment decisions based on my long-term strategy. This reframing acknowledges the reality of uncertainty while emphasising your agency in the process. By aligning your desires with what you can control, you'll learn to find satisfaction in the quality of your efforts rather than the vagaries of outcomes.</p>
+<p>为了帮助控制贪婪和恐惧等情绪，你可以尝试以下练习。假设你有一个迫切的愿望--比如，我今年需要获得 20% 的回报。现在，看看你如何根据自己的能力来重塑这个愿望。比如，你可以说，我将专注于根据我的长期战略做出经过充分研究的投资决策。这种重构既承认了不确定性的现实，又强调了你在这一过程中的能动性。通过将你的愿望与你能够控制的事情结合起来，你将学会从你努力的质量中找到满足感，而不是从变化无常的结果中。</p>
+<p>Another valuable stoic practice is moderating your habits, starting with something as fundamental as food. By exercising self-control in your daily life – like putting down your fork when you're full – you'll build the mental muscle needed to resist impulsive urges in other areas, including your financial decisions. This practice of moderation extends to your approach to wealth itself. Rather than constantly striving for more, aim for enough. What does enough signify in the context of investing? It means finding a balance where your financial needs are met and you have a cushion for the future without the constant pressure to endlessly accumulate more money.</p>
+<p>另一种有价值的委曲求全的做法是节制自己的习惯，从食物这样最基本的东西开始。通过在日常生活中实行自我控制--比如吃饱了就放下叉子--你就能在其他方面（包括财务决策）建立起抵制冲动所需的精神力量。这种节制的做法也适用于你对待财富的态度本身。与其不断追求更多，不如追求足够。在投资方面，"足够 "意味着什么？这意味着要找到一个平衡点，既能满足你的财务需求，又能为未来留出缓冲空间，而不会持续承受无休止地积累更多资金的压力。</p>
+<p>Legendary investor Jack Bogle, founder of the Vanguard Group, embodied this principle. Despite creating a trillion-dollar investment company, Bogle lived relatively modestly and focused on providing value to investors rather than maximising his personal wealth. He defined enough as having one dollar more than you need. Adopting this mindset doesn't mean settling for mediocrity or giving up on wealth. Instead, it allows you to approach investing with a clear head, making decisions based on sound principles rather than emotional impulses or societal pressures.</p>
+<p>传奇投资者、先锋集团（Vanguard Group）创始人杰克-博格尔（Jack Bogle）就体现了这一原则。尽管创建了一家市值万亿美元的投资公司，博格尔的生活却相对俭朴，他专注于为投资者提供价值，而不是最大限度地增加个人财富。他将 "足够 "定义为比你需要的多一块钱。采用这种心态并不意味着甘于平庸或放弃财富。相反，它能让你以清醒的头脑对待投资，根据合理的原则而不是情感冲动或社会压力做出决定。</p>
+<h4 id="conclusionnbsp">Conclusion&nbsp;结论</h4>
+<h2 id="finalsummarynbsp">Final summary&nbsp;最后总结</h2>
+<p>The main takeaway of this blink to The Stoic Path to Wealth by Darius Faroo is that successful investing takes more than just financial knowledge. It takes mastering your emotions. That's because building wealth is a marathon, not a sprint. The surest path is to consistently invest in reliable assets such as index funds tracking the S\&amp;P 500.</p>
+<p>从达里乌斯-法鲁（Darius Faroo）的《斯多葛财富之路》（The Stoic Path to Wealth）一书中得到的主要启示是，成功的投资需要的不仅仅是金融知识。它需要掌握自己的情绪。这是因为积累财富是一场马拉松，而不是短跑。最可靠的途径是持续投资于可靠的资产，如跟踪标准普尔 500 指数的指数基金。</p>
+<p>But the challenges of market volatility, maintaining consistency and dealing with losses can still derail all but the most level-headed investors. Stoicism calls you to develop the virtues of wisdom, justice, courage and self-control so you can face these challenges calmly. This begins with a subtle but powerful shift in your internal dialogue to reframe your desires in terms of what's truly in your power. In other words, focus on what you can control and accept what you can't. It's also important to practice moderation in your daily life which will help you build a strong stoic foundation. By embracing these stoic principles, you'll cultivate a mindset that leads to greater contentment because, in the end, true wealth isn't just about having lots of money.</p>
+<p>但是，除了最冷静的投资者，市场波动、保持一致性和应对亏损等挑战仍然会让所有投资者迷失方向。斯多葛主义要求你培养智慧、正义、勇气和自我控制的美德，这样你才能冷静地面对这些挑战。这首先要在你的内心对话中进行微妙而有力的转变，以你真正有能力做到的事情来重塑你的愿望。换句话说，关注你能控制的，接受你不能控制的。在日常生活中保持适度也很重要，这将帮助你打下坚实的委曲求全的基础。通过接受这些委曲求全的原则，你将培养一种心态，从而获得更多的满足感，因为归根结底，真正的财富并不仅仅是拥有很多钱。</p>
+<p>You also need the wisdom and peace of mind to enjoy it. Okay that's it for this blink. We hope you enjoyed it. If you can, please take the time to leave us a rating. We always appreciate your feedback. And we'll see you soon.</p>
+<p>你还需要智慧和平和的心态来享受它。好了，本次眨眼就到这里。希望您喜欢。如果可以，请花点时间给我们留言。我们永远感谢您的反馈。我们很快会再见的。</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[各种效率工具的开源平替]]></title>
+        <id>https://clip-vito.vercel.app/2024/09/21/ge-zhong-xiao-lu-gong-ju-de-kai-yuan-ping-ti/index.html</id>
+        <link href="https://clip-vito.vercel.app/2024/09/21/ge-zhong-xiao-lu-gong-ju-de-kai-yuan-ping-ti/index.html"/>
+        <updated>2024-09-21T08:33:09.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://techcrunch.com/2024/08/11/a-not-quite-definitive-guide-to-open-source-alternative-software/">🔗 原文链接</a></p>
+<blockquote>
+  <p>The issue of "openness" in technology has rarely been so front and center in the public consciousness as it has these past couple of years. Twitter's steady demise has drawn millions to explore alternatives, many of which are open source. And the OpenAI power struggle last year also shone a spotlight on what "open source" might actually mean in the context of the burgeoning AI revolution.</p>
+  <p>技术的 “开放” 问题很少像过去几年那样成为公众意识中的前沿和中心问题。 Twitter 的逐渐消亡吸引了数百万人去探索替代方案，其中许多是开源的。去年的 OpenAI 权力斗争也让人们关注到在蓬勃发展的人工智能革命背景下 “开源” 的真正含义。</p>
+</blockquote>
+<p>上面是<a href="https://techcrunch.com/2024/08/11/a-not-quite-definitive-guide-to-open-source-alternative-software/">这篇文章</a>的开篇，文章主要是介绍了一系列值得关注的开源生产力工具及其对应的商业方案：</p>
+<p><strong>设计与原型制作</strong>：当 Adobe 宣布以 <strong>200 亿美元</strong>收购 Figma 的计划后，开源设计工具 <a href="https://penpot.app/">Penpot</a> 的注册量激增，随后筹集了 <strong>800 万美元</strong>的资金。Penpot 提供了从个人到企业的多种方案，成为 Figma 的有力竞争者。另一个值得关注的是 <strong>Excalidraw</strong>，一款具备协作功能的开源白板工具。</p>
+<p><strong>日程安排</strong>：在日程管理领域，估值 <strong>30 亿美元</strong>的 Calendly 有了开源对手 <a href="https://cal.com/">Cal.com</a>。Cal.com 号称 “适用于所有人的日程安排基础设施”，并在 2022 年获得了 <strong>2500 万美元</strong>的 A 轮融资，提供自托管和 SaaS 服务。</p>
+<p><strong>屏幕录制</strong>：面对被 Atlassian 以近 10 亿美元收购的 <a href="https://www.loom.com/">Loom</a>，<a href="https://screenity.io/en/">Screenity</a> 作为开源的屏幕录制工具，为希望避开大型企业的软件用户提供了 Chrome 浏览器上的录制和分享功能。</p>
+<p><strong>视频会议</strong>：在 Zoom 主导市场的情况下，<a href="https://meet.jit.si/">Jitsi</a> 提供了一个开源、即时的视频会议解决方案，允许用户自托管。Jitsi 由 Emil Ivov 于 2003 年创建，2018 年被 8×8 公司收购。</p>
+<p><strong>云存储</strong>：对于寻求数据自主权的用户，<a href="https://nextcloud.com/">Nextcloud</a> 提供了一个开源的云存储和协作平台，支持自托管，成为 Dropbox 等商业方案的有力替代品。</p>
+<p><strong>密码管理</strong>：在 LastPass、Dashlane 和 1Password 等商业工具中，<a href="https://bitwarden.com/">Bitwarden</a> 以其核心组件完全开源的模式脱颖而出，已筹集了 <strong>1 亿美元</strong>资金，为用户提供透明且安全的密码管理服务。</p>
+<p><strong>任务管理</strong>：作为 Notion 的开源替代品，<a href="https://www.appflowy.io/">AppFlowy</a> 于 2021 年成立，去年获得了 <strong>640 万美元</strong>的投资，投资者包括 Automattic 和 YouTube 的创始人，提供自托管的任务管理和协作工具。</p>
+<p><strong>代码助手</strong>：在 GitHub Copilot 引领的 AI 编程助手领域，<a href="https://www.tabbyml.com/">TabbyML</a> 作为开源替代品出现，去年获得了 <strong>320 万美元</strong>的种子轮融资，旨在提供完全可自托管的解决方案。</p>
+<p><strong>客户支持</strong>：面对 Zendesk 的商业主导地位，<a href="https://www.chatwoot.com/">Chatwoot</a> 提供了一个开源的客户支持平台，允许企业自托管，保持对数据的完全控制。</p>
+<p><strong>照片管理</strong>：在 Google Photos 终止免费无限存储后，<a href="https://www.photoprism.app/">PhotoPrism</a> 为用户提供了开源、自托管的照片管理和备份解决方案，是 Google Photos 的有力替代品。</p>
+<p><strong>短链接管理</strong>：对于链接缩短和管理， Spectrum Equity 旗下的 Bitly 是流行的工具之一，而谷歌最近为其 URL 缩短服务的棺材敲下了最后的钉子。<a href="https://dub.co/">Dub.co</a>则是缩短链接领域的开源替代品。</p>
+<p>文章里也许没有覆盖所有你需要的工具和场景，但是它的意义在于，埋下一颗思维的种子——我们在需要的时候，不只有商业软件可以选择，还可以找找有没有开源软件可以平替正在使用的商业软件。</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过主动内容消费摆脱算法的束缚]]></title>
+        <id>https://clip-vito.vercel.app/2024/09/18/input-output/index.html</id>
+        <link href="https://clip-vito.vercel.app/2024/09/18/input-output/index.html"/>
+        <updated>2024-09-17T17:35:02.000Z</updated>
+        <content type="html"><![CDATA[<p>When was the last time you had an ‘aha’ moment? If you’re like most people in today’s era of noisy information, it may have been a while. We have access to limitless data, and yet this rarely leads to brilliant creative insights. In fact, this constant assault on our attention can quietly corrode our creative capacities.</p>
+<p>你上一次获得 "啊哈 "时刻是什么时候？如果你和当今信息嘈杂时代的大多数人一样，可能已经有一段时间了。我们可以接触到无穷无尽的数据，但这些数据却很少能给我们带来卓越的创造性见解。事实上，这种对我们注意力的持续攻击会悄无声息地侵蚀我们的创造能力。</p>
+<p>When we’re perpetually overloaded, our brains never get a chance to make the unexpected connections that spark original ideas. When we mindlessly consume whatever the algorithm is feeding us, we don’t provide our minds with the creative fuel it needs to generate interesting ideas.&nbsp;</p>
+<p>当我们长期处于超负荷工作状态时，我们的大脑永远没有机会建立意想不到的联系，从而激发出独创性的想法。当我们无意识地消费算法提供给我们的任何东西时，我们就无法为大脑提供产生有趣想法所需的创意燃料。</p>
+<p>To get quality creative output, you need quality creative input. So, how do you balance the two?</p>
+<p>要想获得高质量的创意输出，就需要高质量的创意输入。那么，如何平衡这两者呢？</p>
+<h2 id="antifuelforcreativity">Anti-fuel for creativity</h2>
+<p>创意的反燃料</p>
+<p>We live in an era where the overall availability of information is not a problem anymore. Social media and endless browsing bombard us with a constant stream of new information. But our brains were not built to handle the constant novel stimuli of the digital age.</p>
+<p>我们生活在这样一个时代，信息的全面供应已不再是问题。社交媒体和无休止的浏览向我们轰炸着源源不断的新信息。但我们的大脑并不是为应对数字时代持续不断的新奇刺激而生的。</p>
+<p>Scientists have <a href="https://www.pnas.org/doi/10.1073/pnas.0903620106">found</a> that excessive multi-tasking and switching between different streams of information can overtax our working memory. This makes it harder for our brains to filter out irrelevant details, engage in deep thinking, and make meaningful connections, which limits our ability to think creatively.</p>
+<p>科学家发现，过度多任务处理和在不同信息流之间切换会过度消耗我们的工作记忆。这会使我们的大脑更难过滤掉无关的细节、进行深入思考和建立有意义的联系，从而限制了我们的创造性思维能力。</p>
+<p>And we’ve become so used to constantly checking “what’s new” that our minds have become scattered, even when we don’t actively engage with that endless stream of information. In fact, the <a href="https://www.journals.uchicago.edu/doi/full/10.1086/691462">mere presence</a> of your smartphone next to you can reduce your available cognitive capacity!</p>
+<p>而且，我们已经习惯于不断查看 "最新信息"，以至于我们的思维变得散乱，即使我们并不主动参与到无穷无尽的信息流中。事实上，只要智能手机在你身边，就会降低你的可用认知能力！</p>
+<p>Our minds need whitespace to make the unexpected connections that fuel creativity. As the author Julia Cameron puts it: “When a creative artist is fatigued, it is often from too much inflow, not too much outflow.”</p>
+<p>我们的大脑需要留白来建立意想不到的联系，从而激发创造力。正如作家朱莉娅-卡梅隆（Julia Cameron）所说："当一个富有创造力的艺术家感到疲劳时，往往是因为流入的信息太多，而不是流出的信息太多"。</p>
+<p>With an endless influx of information competing for our attention, our creative wells often run dry. To revive your imagination, you need to be more intentional about balancing your creative input with your creative output.</p>
+<p>在无穷无尽的信息争相涌入的情况下，我们的创意之井往往会干涸。要唤醒你的想象力，你需要更有意识地平衡你的创意输入和创意输出。</p>
+<h2 id="abettercontentdiet">A better content diet</h2>
+<p>更好的内容饮食</p>
+<p>Balance your input and your output means aligning what you consume with your creative goals. Consider the information you consume to fuel your mind the same way you would food to fuel your body: not too much, the right ingredients, and the occasional treat.</p>
+<p>平衡你的输入和输出意味着让你的消费与你的创作目标保持一致。就像用食物为身体补充能量一样，用信息为头脑补充能量：不要太多，要有正确的成分，偶尔也要吃点东西。</p>
+<p>Here are a few tips to reduce mindless consumption with a content diet:</p>
+<p>以下是一些通过内容饮食减少无意识消费的技巧：</p>
+<p><strong>1. Limit time on passive social media scrolling.</strong> Use website blockers to restrict aimless browsing if necessary. Checking Twitter or Instagram out of habit rarely inspires creativity. Of course memes can be fun. Just set limits on how much time you allow yourself to indulge in low-value content.</p>
+<p>1.限制被动浏览社交媒体的时间。必要时使用网站拦截器限制漫无目的的浏览。习惯性地查看 Twitter 或 Instagram 很少能激发创造力。当然，备忘录也可以很有趣。只要限制自己沉迷于低价值内容的时间即可。</p>
+<p><strong>2. Subscribe to carefully curated newsletters aligned to your interests.</strong> Avoid flooding your inbox with subscriptions you don’t have time to read. Add labels so these newsletters go into a dedicated folder you set time aside to read.</p>
+<p>2.订阅根据你的兴趣精心策划的时事通讯。避免你的收件箱被没时间阅读的订阅淹没。添加标签，让这些新闻简报进入你留出时间阅读的专用文件夹。</p>
+<p><strong>3. Go offline for focused reading.</strong> Read ebooks on your Kindle without distractions. Buy physical books, magazines, and journals to disconnect from the digital bustle. Immersive long-form reading boosts creativity better than skimming content.</p>
+<p>3.离线专注阅读。不受干扰地阅读 Kindle 上的电子书。购买实体书、杂志和期刊，从数字喧嚣中解脱出来。身临其境的长篇阅读比浮光掠影的内容更能提升创造力。</p>
+<p><strong>4. Keep inspiring materials on hand for quick creative sparks.</strong> Build your <a href="https://nesslabs.com/antilibrary">antilibrary</a>. When you have a spare moment, pull out your inspiration from there rather than social media.</p>
+<p>4.随身携带启发灵感的材料，快速迸发创意火花。建立你的 "反图书馆"。闲暇时，从这里而不是社交媒体上获取灵感。</p>
+<p><strong>5. Select audio content with intention.</strong> Rather than passively playing radio with random talk shows intercalated with ads, be selective with what you listen to. When driving, exercising or doing chores, put on a podcast or audiobook that feeds your creativity. This includes fiction!</p>
+<p>5.用心选择音频内容。与其被动地播放夹杂着广告的随机脱口秀节目，不如有选择地收听广播。在开车、锻炼或做家务时，播放播客或有声读物，以激发你的创造力。这包括小说！</p>
+<p>With more intention, you can craft a content diet that nourishes instead of numbs your imagination, and turn what you take in into a creative catalyst.</p>
+<p>有了更多的用心，你就可以精心设计内容饮食，滋养而不是麻木你的想象力，并将你所吸收的内容转化为创造力的催化剂。</p>
+<h2 id="howtopracticeactivecontentconsumption">How to practice active content consumption</h2>
+<p>如何进行积极的内容消费</p>
+<p>While being mindful of the quantity and quality of information you consume is a great first step, changing how you consume this content is even more powerful. It’s easy to passively read blog posts and watch videos. But it’s better to make it an active endeavor.</p>
+<p>注意信息消费的数量和质量是很好的第一步，而改变内容消费的方式则更为重要。被动地阅读博文和观看视频很容易。但更好的办法是让它成为一种主动的努力。</p>
+<p><img src="https://clip-vito.vercel.app/2024/09/18/input-output/active-input-creative-output-illustration-1024x575.png" alt="" /></p>
+<p>Not only active content consumption will help you become more intentional with the content you consume (it would be quite hard to write a blog post about that cat video you just watched) but science shows that it will help you remember things better and come up with better ideas later by putting your brain into <a href="https://nesslabs.com/learning-how-to-learn">focused mode</a>.</p>
+<p>主动的内容消费不仅能帮助你更有意识地消费内容（就你刚看过的猫咪视频写一篇博文是很难的），而且科学表明，它能让你的大脑进入专注模式，从而帮助你更好地记忆事物，日后想出更好的点子。</p>
+<p>Almost any piece of creative content can be consumed in active mode:</p>
+<p>几乎所有的创意内容都可以在主动模式下消费：</p>
+<table data-immersive-translate-walked="7b2f3b9d-f2fa-4e86-a883-367a102369ff"><tbody data-immersive-translate-walked="7b2f3b9d-f2fa-4e86-a883-367a102369ff"><tr data-immersive-translate-walked="7b2f3b9d-f2fa-4e86-a883-367a102369ff"><td data-immersive-translate-walked="7b2f3b9d-f2fa-4e86-a883-367a102369ff"><strong data-immersive-translate-walked="7b2f3b9d-f2fa-4e86-a883-367a102369ff" data-immersive-translate-paragraph="1">Passive<span data-immersive-translate-translation-element-mark="1" lang="zh-CN"><span data-immersive-translate-translation-element-mark="1">&nbsp;</span><span data-immersive-translate-translation-element-mark="1"><span data-immersive-translate-translation-element-mark="1">被动</span></span></span></strong></td><td data-immersive-translate-walked="7b2f3b9d-f2fa-4e86-a883-367a102369ff"><strong data-immersive-translate-walked="7b2f3b9d-f2fa-4e86-a883-367a102369ff" data-immersive-translate-paragraph="1">Active<span data-immersive-translate-translation-element-mark="1" lang="zh-CN"><span data-immersive-translate-translation-element-mark="1">&nbsp;</span><span data-immersive-translate-translation-element-mark="1"><span data-immersive-translate-translation-element-mark="1">主动模式</span></span></span></strong></td></tr><tr data-immersive-translate-walked="7b2f3b9d-f2fa-4e86-a883-367a102369ff"><td data-immersive-translate-walked="7b2f3b9d-f2fa-4e86-a883-367a102369ff" data-immersive-translate-paragraph="1">Watch a YouTube video<span data-immersive-translate-translation-element-mark="1" lang="zh-CN"><span data-immersive-translate-translation-element-mark="1">&nbsp;</span><span data-immersive-translate-translation-element-mark="1"><span data-immersive-translate-translation-element-mark="1">观看 YouTube 视频</span></span></span></td><td data-immersive-translate-walked="7b2f3b9d-f2fa-4e86-a883-367a102369ff" data-immersive-translate-paragraph="1">Make a YouTube video<span data-immersive-translate-translation-element-mark="1" lang="zh-CN"><span data-immersive-translate-translation-element-mark="1">&nbsp;</span><span data-immersive-translate-translation-element-mark="1"><span data-immersive-translate-translation-element-mark="1">制作 YouTube 视频</span></span></span></td></tr><tr data-immersive-translate-walked="7b2f3b9d-f2fa-4e86-a883-367a102369ff"><td data-immersive-translate-walked="7b2f3b9d-f2fa-4e86-a883-367a102369ff" data-immersive-translate-paragraph="1">Read a blog post<span data-immersive-translate-translation-element-mark="1" lang="zh-CN"><span data-immersive-translate-translation-element-mark="1">&nbsp;</span><span data-immersive-translate-translation-element-mark="1"><span data-immersive-translate-translation-element-mark="1">阅读博文</span></span></span></td><td data-immersive-translate-walked="7b2f3b9d-f2fa-4e86-a883-367a102369ff" data-immersive-translate-paragraph="1">Take notes and write your own post<span data-immersive-translate-translation-element-mark="1" lang="zh-CN"><br><span data-immersive-translate-translation-element-mark="1"><span data-immersive-translate-translation-element-mark="1">做笔记并撰写自己的文章</span></span></span></td></tr><tr data-immersive-translate-walked="7b2f3b9d-f2fa-4e86-a883-367a102369ff"><td data-immersive-translate-walked="7b2f3b9d-f2fa-4e86-a883-367a102369ff" data-immersive-translate-paragraph="1">Listen to a podcast<span data-immersive-translate-translation-element-mark="1" lang="zh-CN"><span data-immersive-translate-translation-element-mark="1">&nbsp;</span><span data-immersive-translate-translation-element-mark="1"><span data-immersive-translate-translation-element-mark="1">收听播客</span></span></span></td><td data-immersive-translate-walked="7b2f3b9d-f2fa-4e86-a883-367a102369ff" data-immersive-translate-paragraph="1">Share podcast notes on Twitter<span data-immersive-translate-translation-element-mark="1" lang="zh-CN"><br><span data-immersive-translate-translation-element-mark="1"><span data-immersive-translate-translation-element-mark="1">在 Twitter 上分享播客笔记</span></span></span></td></tr></tbody></table>
+<p>Here are a few ways you can go from passive to active content consumption, from easier to harder:</p>
+<p>以下是几种让你从被动内容消费变为主动内容消费、从容易变为困难的方法：</p>
+<ul>
+<li><p><strong>Make notes by hand or digitally.</strong> Write down key points, memorable quotes, and your own reflections. <a href="https://nesslabs.com/from-note-taking-to-note-making">Note-making</a> will help you identify the most valuable bits of information and synthesize concepts, and reviewing your notes later will help feed your creativity.</p>
+<p>用手或数字方式做笔记。写下要点、难忘的引语和自己的思考。记笔记可以帮助你找出最有价值的信息和综合概念，稍后回顾你的笔记也有助于激发你的创造力。</p></li>
+<li><p><strong>Explain new concepts in your own words to others.</strong> You can simply send the link to a friend you think would be interested in the content with a couple of thoughts of your own. Summarizing what you learned and teaching it activates deeper mental processing, which is known as the <a href="https://nesslabs.com/generation-effect">generation effect</a>. As a bonus, having to structure and communicate the ideas often yields new perspectives.&nbsp;</p>
+<p>用自己的话向他人解释新概念。你可以简单地将链接发送给你认为对内容感兴趣的朋友，并附上自己的一些想法。总结所学内容并将其传授给他人可以激活更深层次的思维加工，这就是所谓的 "生成效应"。还有一个好处是，在组织和交流想法时往往会产生新的观点。</p></li>
+<li><p><strong>Write your own article.</strong> Use what you consumed as inspiration for original output. Creating something new requires you to connect the dots between disparate sources, and putting your thoughts into words to share with the world can help you discover new insights. You may even receive some thought-provoking feedback that will further spark your creativity.</p></li>
+</ul>
+<p>Also consider stepping away from your screen and doing something completely different and unrelated:</p>
+<ul>
+<li>Take a notebook and go to a park or somewhere beautiful to sit down and relax</li>
+<li>Try cooking a new recipe you have never tried before</li>
+<li>Read poetry, a novel, or something unrelated to your field</li>
+<li>Take a train to go visit a new town and take some photos like a tourist</li>
+<li>Go to a library and explore a random aisle</li>
+<li>Find a local meetup in an industry you know little about</li>
+</ul>
+<p>In an era where we are expected to be on the receiving end of broadcast communication, designed to make it feel like it was crafted just for us, to be intentional about the content we consume is an act of freedom.</p>
+<p>And your brain is great at making random connections given you support those processes by ensuring you have the right balance between creative input and creative output. So try to inject more intentionality in your content diet and practice active content consumption to get those creative juices flowing!</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[收集一些给人灵感的东西]]></title>
+        <id>https://clip-vito.vercel.app/2024/09/17/shou-ji-yi-xie-gei-ren-ling-gan-de-dong-xi/index.html</id>
+        <link href="https://clip-vito.vercel.app/2024/09/17/shou-ji-yi-xie-gei-ren-ling-gan-de-dong-xi/index.html"/>
+        <updated>2024-09-17T08:30:46.000Z</updated>
+        <content type="html"><![CDATA[<p>网上冲浪多年，看到过太多有意思的东西了，一定要记下来！</p>
+<ul>
+<li><a href="https://whimsical.club/">异想天开网站俱乐部</a> - 收集了奇奇怪怪的网站</li>
+</ul>
+<h2 id="httpswwwowenyoungcominspiresxianxia">线下<a href="https://www.owenyoung.com/inspires/#xian-xia">🔗</a></h2>
+<ul>
+<li><a href="https://www.abc.net.au/news/2021-10-21/finding-friends-as-an-adult-through-friend-request-events/100551648">快速交友活动</a></li>
+</ul>
+<h2 id="httpswwwowenyoungcominspiresfaxianlei">发现类<a href="https://www.owenyoung.com/inspires/#fa-xian-lei">🔗</a></h2>
+<ul>
+<li><a href="https://subredditstats.com/">Reddit 小组趋势</a> 在这可以发现很多有意思的 Reddit 小组，有各种维度的排序</li>
+<li><a href="https://yourstack.com/">Your Stack 你的工具栈</a> 分享自己使用的产品，在这可以发现不少好用的东西，App</li>
+<li><a href="https://news.ycombinator.com/news">Hacker News 黑客新闻</a> 著名的 HN，很多互联网用户的聚集地，上面的新闻还有讨论大多数是技术相关，也有少数社会新闻，当你有新产品要冷启动的时候，里面的子版块 Show HN 很适合去宣传，当然也有可能收到评论里的不看好。</li>
+<li><a href="https://hn.buzzing.cc/">Hacker News 热门</a> 这是我做的一款抓取 Hacker News 的热门条目，然后用 DeepL 翻译标题和简介，帮助英文不是特别的非母语者做中文导读的站点，对我自己英文提升帮助很大，因为更容易找到感兴趣的文章，然后才点进去详读</li>
+</ul>
+<h2 id="httpswwwowenyoungcominspiresyouyisi">有意思<a href="https://www.owenyoung.com/inspires/#you-yi-si">🔗</a></h2>
+<ul>
+<li><a href="https://github.com/ForrestKnight/open-source-cs">开源/免费的计算机科学学位课程</a> - 这是一个由麻省理工学院、斯坦福大学和普林斯顿大学等知名大学提供的免费课程精选列表，满足本科计算机科学学位的同等要求，但不包括通识教育。</li>
+<li><a href="https://steezeburger.com/wikipedia-browser/">Wikipedia 作为浏览器</a> - 用窗口滑动的形式来浏览 Wiki 维基百科</li>
+<li><a href="https://ytch.xyz/">Youtube 作为电视</a></li>
+<li><a href="https://quicknotes.co/">Quick Notes</a> - 快速记录笔记，可以一键保存pdf或者发送邮件.</li>
+<li><a href="https://www.useronboard.com/">User Onboard</a> - 新手指引设计<ul>
+<li><a href="https://www.useronboard.com/how-zapier-activates-users/?slide=4">Zapier 的新手设计</a></li></ul></li>
+<li><a href="https://thinktype.app/">Thinktype</a> - 输入框也是搜索框的在线笔记应用</li>
+<li><a href="https://airclap.app/">Airclap</a> - 局域网文件传输应用</li>
+<li><a href="https://minders.ussherpress.com/">Minders</a> - 私人推特</li>
+<li><a href="https://docs.directus.io/self-hosted/quickstart.html">Directus</a> - Headless CMS 系统</li>
+<li><a href="https://mycorrhiza.wik/">mycorrhiza</a> - 类似 Mardkown 风格的Wiki</li>
+<li><a href="https://legendapp.com/">Legendapp</a> - 个人任务管理</li>
+<li><a href="https://clay.earth/">Clay</a> - 个人关系管理</li>
+<li><a href="https://quadra.day/">四象限区分任务的优先级</a></li>
+<li><a href="https://manifest.build/">用 yaml 文件来定义一个标准的后端，有API，控制台和SDK, YAML BAAS</a></li>
+<li><a href="https://chromewebstore.google.com/detail/xdisguise/cjbdpinkahonnmoimjblhhhnfcfaapla">让浏览推特变得想浏览 PDF 的扩展</a></li>
+<li><a href="https://papertube.site/">Paper Tube</a> - 把Youtube 视频转为文本化的文章，可以发送到 Kindle</li>
+<li><a href="https://www.quotemaster.org/">Quote Master</a> - 一个收集名言的网站，可以按照作者，主题，关键词等等来查找.</li>
+<li><a href="https://oneminutepark.tv/">一分钟公园</a> 每分钟展示世界上某个公园一分钟的视频</li>
+<li><a href="https://guxiang.app/filter-home/">中国数字游民</a></li>
+<li><a href="https://greatlandingpagecopy.com/">有意思的 Landing 页</a></li>
+<li><a href="https://how-i-experience-web-today.com/">我今天的上网体验</a> - 嘲讽的网站，展示了 21 世纪的今天，是如何被网站强奸眼睛的。</li>
+<li><a href="https://stumbled.cc/stumble">stumbled</a> - 随机发现有意思的网站</li>
+<li><a href="https://expensivetaste.art/">哪个艺术品更贵</a></li>
+<li><a href="https://tannerv.com/ipod/">ipod 复古界面听音乐</a></li>
+<li><a href="https://welcome.gif.so/">Gif.so</a> - 随便填个子域名，他会返回一个对应的表情包</li>
+<li><a href="https://www.their.news/">their news</a> - 左派/右派新闻对比</li>
+<li><a href="https://extract-table.com/">从图片/PDF 中提取表格</a></li>
+<li><a href="https://www.ytt-tech.com/v/Six-Shuffle-Grooves">youtube 上的教程分类集合</a></li>
+<li><a href="https://www.bryanbraun.com/checkboxland/docs/demos/webcam-test/">摄像头捕捉变成复选框动画</a><ul>
+<li><a href="https://github.com/bryanbraun/checkboxland">源代码库</a></li></ul></li>
+<li><a href="https://www.consolechat.io/">将网站的 console 控制台变成聊天室</a></li>
+<li><a href="https://github.com/sniptt-official/ots">生成一次性秘密用一次性 url</a></li>
+<li><a href="https://bunklist.com/">收集有意思的网站到一个个清单</a></li>
+<li><a href="https://silverdial.org/">和老人聊天并获得报酬</a></li>
+<li><a href="https://projecteuler.net/">欧拉项目</a> - 对数学/计算机问题感兴趣的人的问题库，注册后可以去解决各种各样有意思的数学问题</li>
+<li><a href="https://thousandetherhomepage.com/">百万美元广告项目的区块链版本</a></li>
+<li><a href="https://kosmi.io/">在线和朋友玩游戏/扑克/看视频等等/不登录也可以</a></li>
+<li><a href="https://www.reddit.com/r/SubSimulatorGPT2/">一个完全由机器人提交和回复的 Reddit 小组，使用 GPT2 引擎</a><ul>
+<li><a href="https://www.reddit.com/r/SubredditSimulator/">另一个类似的小组，使用 markov chains</a></li></ul></li>
+<li><a href="https://heyfromthefuture.com/age/">人们希望在你这个年纪拥有的建议</a></li>
+<li><a href="https://aytwit.com/thoughter">Thoughter</a> - 电子邮件漂流瓶，match</li>
+<li><a href="https://github.com/maxboeck/webring">Webring</a> - web 环，圈子内独立网站随机推荐，互相推荐</li>
+<li><a href="https://anchor.fm/deepdreams">GT3 生成的播客</a></li>
+<li><a href="https://mossandfog.com/artist-imagines-what-famous-historical-figures-would-look-like-today/">古人活在现在的样子</a></li>
+<li><a href="http://www.paulgraham.com/">paulgraham 的博客故意把列宽设置为一个很小的值，称之为人类最佳阅读宽度</a></li>
+<li><a href="https://longbets.org/bets/">长期赌注</a><ul>
+<li><a href="https://longbets.org/362/">巴菲特 2008 年赌标普 500 未来 10 年收益率超过对冲基金，赢</a></li></ul></li>
+<li><a href="https://longbets.org/9/">2017:未来 4 年内某个生物袭击事件将导致 100 万人丧生</a></li>
+<li><a href="https://beta.dwitter.net/">Dwitter javascript 社交，像推特一样，140 字符限制，写一些有意思的 javascript 代码</a><ul>
+<li><a href="https://github.com/lionleaf/dwitter">Source Code</a></li></ul></li>
+<li><a href="https://github.com/mdibaiee/awesome-lite-websites">awesome lite website</a> - 轻量级网站汇总</li>
+<li><a href="https://www.my90stv.com/">模拟 90 年代的电视</a><ul>
+<li><a href="https://www.my80stv.com/">80 年代</a></li></ul></li>
+<li><a href="https://solar.lowtechmagazine.com/power.html">太阳能供电的网站</a></li>
+<li><a href="https://www.privateislandsonline.com/">你可以在线买一座岛屿</a></li>
+<li><a href="https://chris.bolin.co/offline/">你必须离线才能访问此页面</a></li>
+<li><a href="https://crazymarvin.com/to-dont/">To dont</a> - Todo 的反向操作，不要做的事清单</li>
+<li><a href="https://www.sincerelyme.us/">Sincerely Me</a> - 用互联网给真人写信</li>
+<li><a href="https://www.diggz.co/">diggz</a> - Find Roommates &amp; Rooms today.找室友</li>
+<li><a href="https://digitalhumani.com/">digitalhumani</a> A platform which easily integrates with your products to reforest the planet，提供 API，让你能更方便为环境做贡献，API 种树？</li>
+<li><a href="https://planning.wedding/">Wedding Planning</a> - Online Wedding Planning Assistant，在线婚礼策划</li>
+<li><a href="https://bossasaservice.life/">boss as a service</a> - We make sure you achieve your goals，老板即服务，为了让你达成你的目标，给你分配一个老板监督你。</li>
+<li><a href="https://makepassportphoto.com/?utm_campaign">make passport photo</a> - Get your biometric Passport/Visa/ID photos in minutes, 在线打印护照需要的照片 #Photos #Print</li>
+<li><a href="https://www.throwapp.com/">Throw app</a> - 匿名发送问题，然后等待响应</li>
+<li><a href="https://www.wolfgangfaust.com/project/paper-hn/">Hacker News 报纸版</a></li>
+<li><a href="https://unim.press/">Reddit 报纸版</a></li>
+<li><a href="https://www.thiswebsitewillselfdestruct.com/">这个网站将会自毁</a> - 如果 24 小时内没有人发帖，这个网站将会自动关闭。</li>
+<li><a href="https://boomers.dog/">Boomers</a> - 可以匿名，实名发布东西的留言板，挺好看。</li>
+<li><a href="https://motherfuckingwebsite.com/">Mother fucking website</a> - 只使用简单的 html 也可以是一个正常的网站。控诉现代网站</li>
+<li><a href="https://txti.es/">Txti</a> - 简约的文本网页创建服务，像电报的<a href="https://telegra.ph/">telegraf</a>，</li>
+<li><a href="http://realtime.info/">Realtime</a> - 实时查看各大平台正在发生什么…真正的实时</li>
+<li><a href="https://mudita.com/products/phones/mudita-pure/">Mudita 手机</a> - 墨水屏手机，极简，有实体按键，发财后要入手的东西之一！</li>
+<li><a href="https://www.human.com/">笑话视频网站，每个人讲一个笑话</a></li>
+<li><a href="https://museumoffailure.com/">失败博物馆</a></li>
+<li><a href="https://conv911.com/active">Conv911</a> - 一个设计挺有意思的社区，有一个 breaking 的版本，在 breaking 里的消息理论上能得到更快的回复：</li>
+<li><a href="https://www.leets.it/">Product Hunt but for Music</a></li>
+<li><a href="https://apps.apple.com/us/app/hot-local-food/id1621818779">Tinder for local food</a></li>
+<li><a href="https://sjmulder.nl/en/textonly.html">纯文本相关网站导航</a></li>
+<li><a href="https://www.slow-journalism.com/">Slow journalism</a> - 慢新闻，慢杂志，每季度一次，不错过重要的文章。<ul>
+<li><a href="https://www.countyhighway.com/">只有打印版的新闻</a></li></ul></li>
+<li><a href="https://goodenough.us/">Good Enough</a> - 足够好的团队（制作一些小而美的东西）</li>
+<li><a href="https://ponder.us/">Ponder</a> - 现代互联网应该有的论坛</li>
+</ul>
+<h2 id="httpswwwowenyoungcominspiresfuwu">服务<a href="https://www.owenyoung.com/inspires/#fu-wu">🔗</a></h2>
+<ul>
+<li><a href="https://www.rover.com/uk/">Rover</a> - The world’s largest network of 5‑star pet sitters and dog walkers. 遛狗服务<ul>
+<li><a href="https://hellodogspot.com/">dog spot</a> - A DogSpot is a smart sidewalk sanctuary, providing your dog a safe and cozy home away from home while you briefly go somewhere they aren’t allowed. With DogSpot, you don’t have to choose between adventures and spending time with your dog. You have the freedom to live your life with your dog… without having to take risks like tying them up or leaving them in the car. 另一个遛狗服务</li></ul></li>
+<li><a href="https://neverinstall.com/">Never Install</a> - 浏览器的云端环境，可以使用浏览器，应用等，但是好像不是很流畅啊。临时使用比较适合。</li>
+<li><a href="https://www.shhhsound.com/">白噪音</a></li>
+<li><a href="https://worldle.teuteuf.fr/">Wordle for World Map</a> - 猜国家 wordle 游戏</li>
+<li><a href="https://gainedin.site/">哲学笔记</a> - 哲学/抽象常识书。它是从成千上万的文章，书籍，视频和讨论中收集的。</li>
+<li><a href="https://react-guitar.com/">在线吉他练习</a></li>
+<li><a href="https://www.gnod.com/">全球发现网络</a> - 发现有趣的新东西</li>
+<li><a href="https://pointerpointer.com/">找鼠标光标位置的有意思网页</a></li>
+<li><a href="https://paper.mmm.dev/">互联网画布</a> - 随便画一个网站出来.</li>
+<li><a href="https://www.obsessivefacts.com/fmiffel">Say somethings meaningful</a> - 发布必须超过 140 个字的网站</li>
+</ul>
+<h2 id="httpswwwowenyoungcominspiresyingjian">硬件<a href="https://www.owenyoung.com/inspires/#ying-jian">🔗</a></h2>
+<ul>
+<li><a href="https://www.coroflot.com/mengfandi/if-concept-awards-2008Best-of-Best">情侣闹钟，互相不吵醒的戒指设计</a></li>
+<li><a href="https://news.ycombinator.com/item?id=1851088">DeadDrop</a> - 用 U 盘作为 P2P 的载体，安装在城市的不同地方</li>
+</ul>
+<h2 id="httpswwwowenyoungcominspirestongzhilei">通知类<a href="https://www.owenyoung.com/inspires/#tong-zhi-lei">🔗</a></h2>
+<ul>
+<li><a href="https://crono.app/">Crono</a> - Get mobile notifications and SMS on desktop</li>
+</ul>
+<h2 id="httpswwwowenyoungcominspiresshejiaoyingyong">社交应用<a href="https://www.owenyoung.com/inspires/#she-jiao-ying-yong">🔗</a></h2>
+<h3 id="httpswwwowenyoungcominspireswenzijiaoyou">文字交友<a href="https://www.owenyoung.com/inspires/#wen-zi-jiao-you">🔗</a></h3>
+<ul>
+<li><a href="https://slowly.app/en/">SLOWLY</a> - SLOWLY 让你从你的智能手机上认识笔友！按照距离远近，和不同的人发信有不同的发送时间，有的高达 10 多个小时才能发出去。与有共同爱好的人配对，写信并收集来自世界各地的邮票。说出你的想法–一次一封信!</li>
+<li><a href="https://apps.apple.com/us/app/addchat-random-chat/id1464989529">Addchat</a> - Make Random Friends and Chat !</li>
+</ul>
+<h3 id="locationbasedhttpswwwowenyoungcominspireslocationbased">Location based<a href="https://www.owenyoung.com/inspires/#location-based">🔗</a></h3>
+<ul>
+<li><a href="http://www.zown.co/">Zown</a> - Zown 让你看到离你超级近的人（半径 500 米内）。 一旦你与某人建立联系，它只给你 15 分钟的聊天时间，所以它迫使你在现实生活中与对方见面以保持联系。</li>
+</ul>
+<h3 id="httpswwwowenyoungcominspiresshipinduihua">视频对话<a href="https://www.owenyoung.com/inspires/#shi-pin-dui-hua">🔗</a></h3>
+<ul>
+<li><a href="https://superpeer.com/">Superpeer</a> - Host cohort-based courses, live events, or 1:1 sessions, an all-in-one video platform that gives you the tools you need to engage with your audience through video, and connect in a more authentic way.<ul>
+<li><a href="https://awesomepeers.com/">Awesome Peers</a> - A list includes 900+ free peers</li></ul></li>
+</ul>
+<h3 id="httpswwwowenyoungcominspiresxiezuoshejiao">协作社交<a href="https://www.owenyoung.com/inspires/#xie-zuo-she-jiao">🔗</a></h3>
+<ul>
+<li><a href="https://wt.social/">WT.social</a> - 维基百科式的社交网络，所有都可以协作编辑所有人的帖子。</li>
+</ul>
+<h3 id="httpswwwowenyoungcominspirestupian">图片<a href="https://www.owenyoung.com/inspires/#tu-pian">🔗</a></h3>
+<ul>
+<li><a href="https://pixelfed.org/">pixelfled</a></li>
+<li><a href="https://www.deviantart.com/">deviantart</a> - 艺术家社区</li>
+</ul>
+<h3 id="httpswwwowenyoungcominspiresyuyinjiaoliu">语音交流<a href="https://www.owenyoung.com/inspires/#yu-yin-jiao-liu">🔗</a></h3>
+<ul>
+<li><a href="https://dialup.com/">Dialup</a> - 偶然的声音聊天。</li>
+</ul>
+<h3 id="httpswwwowenyoungcominspiresniming">匿名<a href="https://www.owenyoung.com/inspires/#ni-ming">🔗</a></h3>
+<ul>
+<li><a href="https://apps.apple.com/us/app/turtle-chat-anonymously/id1313518475">Turtle - Chat Anonymously</a> - Turtle is an app that lets you message people and remain anonymous for three days. After three days, the other person will be able to see who you are. In an essence, it’s almost like meeting someone with a blindfold on. There is no room for implicit bias. The first impressions will be based off character, instead of appearance or status.</li>
+</ul>
+<h3 id="httpswwwowenyoungcominspiresyuehui">约会<a href="https://www.owenyoung.com/inspires/#yue-hui">🔗</a></h3>
+<ul>
+<li><a href="https://bumble.com/zh/">bumble</a> - 女性友好</li>
+<li><a href="https://www.heyvina.com/">vina</a> - 女性交友社区</li>
+</ul>
+<h3 id="allinonechathttpswwwowenyoungcominspiresallinonechat">All in one chat<a href="https://www.owenyoung.com/inspires/#all-in-one-chat">🔗</a></h3>
+<ul>
+<li><a href="https://www.beeper.com/?hn">beeper</a> - 真正的 all in one 聊天，整合 15 个 app 的聊天，降维打击啊这是。</li>
+</ul>
+<h3 id="httpswwwowenyoungcominspiresfugu">复古<a href="https://www.owenyoung.com/inspires/#fu-gu">🔗</a></h3>
+<ul>
+<li><a href="https://spacehey.com/home">spacehey</a> - 重制了 mysapce，令人感慨那个年代的互联网的纯真</li>
+</ul>
+<h3 id="httpswwwowenyoungcominspiresbendi">本地<a href="https://www.owenyoung.com/inspires/#ben-di">🔗</a></h3>
+<ul>
+<li><a href="https://newyorksocialnetwork.com/">纽约社交网络</a></li>
+</ul>
+<h2 id="httpswwwowenyoungcominspiresbiaozhun">标准<a href="https://www.owenyoung.com/inspires/#biao-zhun">🔗</a></h2>
+<ul>
+<li><a href="https://github.com/fesja/businesstxt">Business.txt</a> - 商家信息 txt，就像 robots.txt 但是是为商家</li>
+<li><a href="https://humanstxt.org/">Humanstxt</a> - 网站的作者信息，给人类看</li>
+</ul>
+<h2 id="godhttpswwwowenyoungcominspiresgod">God<a href="https://www.owenyoung.com/inspires/#god">🔗</a></h2>
+<ul>
+<li><a href="https://www.godchecker.com/">God Checker</a> - 全世界几万个神的汇总</li>
+</ul>
+<h2 id="answershttpswwwowenyoungcominspiresanswers">Answers<a href="https://www.owenyoung.com/inspires/#answers">🔗</a></h2>
+<ul>
+<li><a href="https://news.ycombinator.com/item?id=31708366">Ask HN： 你遇到过最酷的网站</a></li>
+</ul>
+<h2 id="uicolorhttpswwwowenyoungcominspirespeiseuicolor">配色 UI/Color<a href="https://www.owenyoung.com/inspires/#pei-se-ui-color">🔗</a></h2>
+<ul>
+<li><a href="https://ruudvanasseldonk.com/">一个很舒服的背景色的博客</a></li>
+<li><a href="https://surma.dev/things/js-to-asc/">把格式融入到整体网站里，很舒服</a></li>
+<li><a href="https://magazine.atavist.com/the-voyagers-russia-bering-strait-stalin-alaska-ukraine/">沉浸式体验的杂志</a></li>
+<li><a href="https://zellwk.com/blog/trying-your-best/">日期放在博文左边</a></li>
+<li><a href="https://www.tabletmag.com/sections/news/articles/destined-live-quiet-times-progress-walter-russell-mead-via-meadia">舒服的博客背景色</a></li>
+<li><a href="https://remotive.com/blog/digital-nomad-visas/">舒服的博客配色</a></li>
+<li><a href="https://paulstamatiou.com/">设计师的博客</a> - 左边导航栏很舒服</li>
+<li><a href="https://www.fabrizio.so/">typefully 作者的博客</a> - 分块设计，很好看</li>
+<li><a href="https://hallofshame.design/collection/">多个好看的卡片背景配色</a></li>
+</ul>
+<h2 id="httpswwwowenyoungcominspiresziyuan">资源<a href="https://www.owenyoung.com/inspires/#zi-yuan">🔗</a></h2>
+<ul>
+<li><a href="http://pilimi.org/">pilimi</a> - 海盗图书馆项目，保存人类的火种（盗版）</li>
+</ul>
+<h2 id="httpswwwowenyoungcominspiresgouwu">购物<a href="https://www.owenyoung.com/inspires/#gou-wu">🔗</a></h2>
+<ul>
+<li><a href="https://www.looria.com/">looria</a> - 从可信来源收集购物推荐（比如 reddit），而不是虚假评论</li>
+</ul>
+<h2 id="donatehttpswwwowenyoungcominspiresdonateyemian">Donate 页面<a href="https://www.owenyoung.com/inspires/#donate-ye-mian">🔗</a></h2>
+<ul>
+<li><a href="https://signal.org/donate/">signal donate</a></li>
+<li><a href="https://archive.org/donate/">archive</a></li>
+<li><a href="https://github.com/antfu/sponsorkit">sponsorkit</a></li>
+</ul>
+<h2 id="httpswwwowenyoungcominspireszimu">字幕<a href="https://www.owenyoung.com/inspires/#zi-mu">🔗</a></h2>
+<ul>
+<li><a href="https://www.engineerdraft.com/bemyears/">mac app, 自动识别语音字幕</a></li>
+<li><a href="https://anylanguage.ai/">anylanguage</a></li>
+</ul>
+<h2 id="httpswwwowenyoungcominspiresqita">其他<a href="https://www.owenyoung.com/inspires/#qi-ta">🔗</a></h2>
+<ul>
+<li><a href="https://meetcala.com/">meetcala</a> - 取消会议的 Tinder , 所有人都同意，则会议取消。</li>
+</ul>
+<h2 id="landinghttpswwwowenyoungcominspireslandingyemian">Landing 页面<a href="https://www.owenyoung.com/inspires/#landing-ye-mian">🔗</a></h2>
+<ul>
+<li><a href="https://thepaige.co/">The paige</a> - ai 生成网站，landing 页很棒</li>
+<li><a href="https://browser.horse/">Browser Horse</a></li>
+</ul>
+<h2 id="httpswwwowenyoungcominspiresgongju">工具<a href="https://www.owenyoung.com/inspires/#gong-ju">🔗</a></h2>
+<ul>
+<li><a href="https://www.interstitch.app/">间隔日记</a></li>
+</ul>
+<h2 id="httpswwwowenyoungcominspiresmeiti">媒体<a href="https://www.owenyoung.com/inspires/#mei-ti">🔗</a></h2>
+<ul>
+<li><a href="https://www.pressreader.com/">Pressreader</a> - 在线杂志，7000多种顶级杂志</li>
+</ul>
+<h2 id="httpswwwowenyoungcominspiresbangzhuyemiansheji">帮助页面设计<a href="https://www.owenyoung.com/inspires/#bang-zhu-ye-mian-she-ji">🔗</a></h2>
+<ul>
+<li><a href="https://adblockplus.org/en/contribute?link=contribute\&lang=en-US">adblock 的页面设计</a></li>
+</ul>
+<h2 id="httpswwwowenyoungcominspiresjuankuanhuxu">捐款呼吁<a href="https://www.owenyoung.com/inspires/#juan-kuan-hu-xu">🔗</a></h2>
+<p>This is important, and we’ll be blunt: Our December fundraising is at risk of coming up way short of the $350,000 we need. Heading into the long holiday weekend, we still need about $225,000 in donations to come in, and despite the awesome recent news, we can’t afford to come up short on these goals. With fewer people paying attention to the news, we urgently need people like you to consider supporting our reporting if there’s any way you can right now. Please help us pick up the pace.</p>
+<p>这一点很重要，而且我们会直言不讳：我们 12 月份的筹款额可能会远远低于我们所需的 35 万美元。进入长周末假期后，我们还需要大约 22.5 万美元的捐款，尽管最近有很多令人振奋的消息，但我们不能在这些目标上出现短缺。随着关注新闻的人越来越少，我们迫切需要像您这样的人考虑支持我们的报道，如果您现在有任何可以做的事情的话。请帮助我们加快步伐。</p>
+<ul>
+<li><p><a href="https://www.motherjones.com/">source</a></p></li>
+<li><p><a href="https://donorbox.org/">DonorBox</a> 捐款解决方案（需要绑定自己的paypal/stripe)</p></li>
+</ul>
+<h2 id="abouthttpswwwowenyoungcominspiresaboutyemian">About 页面<a href="https://www.owenyoung.com/inspires/#about-ye-mian">🔗</a></h2>
+<ul>
+<li><a href="https://jakeseliger.com/about/">Jakese</a><ul>
+<li>在《随心所欲》一书中，德里克-西弗斯说 “我遇到的最酷的人，都是通过我写的东西找到我的人”。我也一样。所以，如果你想打招呼，或者有问题，或者需要抱怨、表扬，或者发现错误，请登录 <a href="https://clip-vito.vercel.app/2024/09/17/shou-ji-yi-xie-gei-ren-ling-gan-de-dong-xi/mailto:seligerj@gmail.com">seligerj@gmail.com</a> 打招呼。</li></ul></li>
+<li><a href="https://restofworld.org/about/">The Rest of World</a></li>
+</ul>
+<h2 id="httpswwwowenyoungcominspiresshuaiziqizhi">书呆子气质<a href="https://www.owenyoung.com/inspires/#shu-ai-zi-qi-zhi">🔗</a></h2>
+<ul>
+<li><a href="https://laniakeabooks.org/how-it-works/">我在你出版书籍</a></li>
+</ul>
+<h2 id="httpswwwowenyoungcominspiresjiaoyu">教育<a href="https://www.owenyoung.com/inspires/#jiao-yu">🔗</a></h2>
+<ul>
+<li><a href="https://www.synthesis.com/tutor">Synthesis</a> - 马斯克出品的在线教育平台。</li>
+<li><a href="https://tphcc.ebook.hyread.com.tw/Template/RWD3.0/moccount_publisher-page.jsp?id=1395">台湾数位电子书免费借阅平台</a></li>
+</ul>
+<h2 id="uihttpswwwowenyoungcominspiresuixuexi">UI 学习<a href="https://www.owenyoung.com/inspires/#ui-xue-xi">🔗</a></h2>
+<ul>
+<li><a href="https://fibery.io/">fibery</a> - 在官网里做调查，用户是否愿意xxx</li>
+</ul>
+<h3 id="3httpswwwowenyoungcominspiresbacklinks">博客内双向链接文章 (3)<a href="https://www.owenyoung.com/inspires/#backlinks">🔗</a></h3>
+<ul>
+<li><a href="https://www.owenyoung.com/about/">关于我和这个博客</a></li>
+<li><a href="https://www.owenyoung.com/blog/about-notes/">不要再碎片化笔记了 - 关于笔记的思考</a></li>
+<li><a href="https://www.owenyoung.com/pages/index-first/">首页</a></li>
+</ul>
+<p>该博客没有评论系统，我正在实验有意义的讨论是否更易在社群中发生，不知道为什么，人在社群中，似乎会有更好的行为规范。然后如果有高质量的讨论，我会手动再精选到原文。为此，我建立了一个 <a href="https://t.me/+c2drnwCso55mMjBh">Telegram 讨论群组</a>，你可以在里面讨论这篇文章，<a href="https://www.owenyoung.com/inspires/#">点此复制文章标题和链接</a>&nbsp;。</p>]]></content>
+    </entry>
+</feed>
