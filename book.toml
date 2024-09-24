@@ -1,7 +1,8 @@
 base_url = "https://clip-vito.vercel.app/"
 [book]
 title = "Vito's Clip"
-description = "Vito's Clip"
+description = "Vito's Clip feedId:61414424947435520+userId:58336736209433600"
+
 src = "content"
 language = "zh"
 authors = ["Vito Wang"]
