@@ -3,7 +3,7 @@
   "bulletListMarker": "-",
   "codeBlockStyle": "fenced",
   "contextMenus": true,
-  "customCopiedText": "[{pageTitleWithoutSiteName}]({baseURI}) ([双语机翻译文](https://clip.owenyoung.com/{date:YYYY}/{date:MM}/{date:DD}/{slug}/))",
+  "customCopiedText": "[{pageTitleWithoutSiteName}]({baseURI}) · {date:YYYY-MM-DD} · `{slug}`",
   "disallowedChars": "[]#^,'’",
   "downloadImages": true,
   "downloadMode": "downloadsApi",
